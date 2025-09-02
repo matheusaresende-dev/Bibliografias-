@@ -1,0 +1,1281 @@
+Siaw-Teng Liaw, Myron Anthony Godinho,
+Chapter 8 - Governance, trust, and reciprocity to advance digital health maturity,
+Editor(s): Siaw-Teng Liaw, Jitendra Jonnagaddala, Myron Anthony Godinho, Zoie Shui Yee Wilkins-Wong,
+Digital Health Maturity: Quality, Interoperability, and Innovation,
+Academic Press,
+2026,
+Pages 195-219,
+ISBN 9780323952606,
+https://doi.org/10.1016/B978-0-323-95260-6.00008-3.
+(https://www.sciencedirect.com/science/article/pii/B9780323952606000083)
+Abstract: Governance involves the organizational leadership taking ownership to uphold ethical principles, standards, and operations through participation, risk management, compliance, and administration while ensuring transparency and accountability to people and society at large. Trust mediates the relationship between an organization's governance, leadership, people, and technologies. Trust in digital health depends on product/asset quality, competence and motivation of staff, client-facing organizational structures and activities addressing justice and equity, regulatory and compliance environment, organizational culture, and transparency of governance. Reciprocity underpins the mutually trusting and respectful cocreation process. It requires good governance, leadership, and management. Transparency emphasizes the openness of the system and technology to citizen participation in the cocreation process, engendering a sense of ownership and facilitating trust-building. Transparency and access must be balanced with cybersecurity across the micro-meso-macro-meta continuum to engender trust in digital data, tools, and services. The FAIR, CARE, and 5-SAFES principles described in Chapter 3 apply with a focus on sustainability. Inclusive leadership and governance that leverage corporate social and environmental responsibility activities can promote trust in the use of digital tools to improve individual and community health.
+Keywords: Leadership; Trust; Quality improvement; Competencies; Fit-for-purpose data; Data quality; Transparency; Cybersecurity; Knowledge exchange; Harmonization; Ethical, legal & social issues; Compliance
+
+Wenhua Li, Shuaishuai Chai, Na Zhang, Fanfan Zeng, Xuhuan Tang, Feng Zhang, Fan Yang, Qun Chen, Chenchen Wang, Bing Li, Fang Zheng,
+Multi-omics analysis of immunologically relevant genes in multiple sclerosis to identify potential drug target,
+Journal of Affective Disorders,
+Volume 392,
+2026,
+120174,
+ISSN 0165-0327,
+https://doi.org/10.1016/j.jad.2025.120174.
+(https://www.sciencedirect.com/science/article/pii/S0165032725016167)
+Abstract: Background
+Multiple sclerosis (MS) is a chronic inflammatory disease of the central nervous system characterized by demyelination and immune dysregulation. Despite the established link with immune function, the genetic and pathological mechanisms connecting immune-related genes to MS remain incompletely understood.
+Methods
+We systematically integrated genome-wide association study (GWAS) data for various quantitative trait loci (QTLs) from public databases and literature, along with GWAS summary statistics for MS from IMSGC and FinnGen. Mendelian Randomization (MR) was used to infer potential causal relationships between immune-related factors and MS. To validate whether the same genetic variants underlie both traits, Bayesian colocalization analysis was performed. Summary-data-based Mendelian Randomization (SMR) further supported causality between the exposure and outcome. Finally, two-step MR was conducted to investigate whether immune cell subsets mediate the observed associations.
+Results
+Fc receptor-like 3 (FCRL3) was identified as a protective factor for MS, supported by MR analyses at multiple levels: circulating protein (OR = 0.912, 95 % CI = 0.882–0.942), blood-derived gene expression (OR = 0.772, 95 % CI = 0.598–0.997), and cerebral cortex expression (OR = 0.573, 95 % CI = 0.455–0.721). Causality was further supported by SMR (pSMR = 5.38E-04; pHEIDI = 0.478) and Bayesian colocalization (PP.H₄ = 0.915). The protective effect of FCRL3 on MS was found to be partially mediated by CD3 expression on naïve CD4+ T cells.
+Conclusion
+This study systematically evaluated the causal roles of immune-related genes in MS susceptibility and identified FCRL3 as a protective factor. These findings underscore the significance of FCRL3 in MS pathogenesis and suggest its potential as a target for future immunotherapeutic strategies.
+Keywords: Multiple sclerosis; Mendelian randomization; FCRL3; Bayesian colocalization
+
+Hemlata Nimesh, Shikha B. Chauhan, Indu Singh, Charinya Chankhampan,
+Chapter 6 - Understanding consumer/patient perspectives on the application of nanotechnology in dermatology,
+Editor(s): Alka Lohani, Shahbaz Khan, Pierfrancesco Morganti,
+Nanodermatology,
+Elsevier,
+2026,
+Pages 103-116,
+ISBN 9780443363269,
+https://doi.org/10.1016/B978-0-443-36326-9.00003-4.
+(https://www.sciencedirect.com/science/article/pii/B9780443363269000034)
+Abstract: Applications of nanotechnology in dermatology hold great promise for improving skincare and treatment efficacy as this technology continues to transform medicine. The investigation of the perceptions of patients and customers on the use of nanotechnology in dermatology practices is crucial. This chapter provides the status of nanotechnology in dermatology before delving into the complex world of customer views. It looks at the ways that patient acceptance and comprehension are impacted by awareness levels, information sharing, and outreach initiatives. It also emphasizes the ways in which age, gender, socioeconomic situation, and cultural background influence these viewpoints. The possibility of better treatment results, less invasiveness, and cutting-edge skincare solutions frequently influence positive opinions. The chapter also focuses on the various adoption challenges such as financial limitations, psychological resistance, and accessibility problems. It offers feasible ideas for getting beyond these obstacles and promotes patient-centered strategies that give informed consent and trust-building top priority. The chapter summarizes the recommendations for future research and practice areas that require more investigation to properly comprehend and handle consumer perspectives. Adopting comprehensive communication techniques, participating in ongoing patient education, and supporting laws that guarantee the ethical and safe application of nanotechnology in dermatology are important from a practitioner's point of view.
+Keywords: Challenges; Consumers; Dermatology; Nanotechnology; Skin
+
+Ru Zhao, Meiling Yang, Dongping Long, Xingang Fan, Zhengsheng Zhang, Yingping Duan, Zhihong Zhang, Yuhang Ye, Jinlin Chen,
+The evolution of transformative resilience research topics: A data-driven analysis,
+Cities,
+Volume 168,
+2026,
+106425,
+ISSN 0264-2751,
+https://doi.org/10.1016/j.cities.2025.106425.
+(https://www.sciencedirect.com/science/article/pii/S0264275125007267)
+Abstract: Transformative resilience has not yet been adequately established in fixed notions and research areas. This study endeavors to define transformative resilience through data-driven insights and explores trends in related research by mapping its topics and fields. We employed Latent Dirichlet Allocation (LDA) topic modeling, which extracts key terms and insights into topics from a large volume of literature. We traced the evolution of research topics from 1951 to 2024 based on connections between citations. The data were sourced from the Scopus database using the query term “transformative resilience”, encompassing titles, abstracts, and keywords of journal articles, book chapters, and conference papers. We collected a total of 3110 related pieces of literature. We defined transformative resilience as a change of system structure accompanied by a shift in socio-political values and policy. The results of LDA showed that transformative resilience research has developed into seven fields: Innovation and Economic Policy, Supply Chain and Technological Response, Health and Social Well-being, Agriculture and Environmental Impact, Community Resilience and Disaster Recovery, Sustainability Theory and Practice, and Urban Governance and Planning. Based on topic evolution relationships, topics anchored in a context perspective have grown increasingly specialized and productive, while those rooted in a theory perspective have stagnated or remained underexplored. Our findings suggest that transformative resilience studies should foster greater interdisciplinary connections to effectively integrate current research, merging mechanization-centered approaches with a focus on building context-centered resilience.
+Keywords: Transformative resilience; Text mining; Latent Dirichlet Allocation (LDA); Research evolutionary relationship; Transformative resilience knowledge mapping; Scopus
+
+Windia Urfa Hani, Djoni Hartono, Putu Angga Widyastaman,
+Chapter 7 - Social capital and its spatial spillover on energy-based carbon emissions in Indonesia,
+Editor(s): Hooi Hooi Lean, Jin Hooi Chan,
+Energy Economics, Finance, and Management in Developing and Emerging  Economies,
+Elsevier,
+2026,
+Pages 135-158,
+ISBN 9780443247286,
+https://doi.org/10.1016/B978-0-443-24728-6.00016-6.
+(https://www.sciencedirect.com/science/article/pii/B9780443247286000166)
+Abstract: Social capital is considered to be one of the key factors for optimizing measures for climate change adaptation and mitigation while avoiding economic growth slowdown. Previous studies have demonstrated that social capital may lessen the adverse effect of carbon emissions; however, these studies did not account for the spatial effects of carbon emissions simultaneously. This study examines the spatial effects of carbon emissions and social capital using provincial panel data from Indonesia from 2010 to 2018. Estimated using general spatial model (GSM), the results reveal negative effects of social capital on carbon emissions. Furthermore, the estimated carbon emissions are lower when considering the spatiotemporal effects of carbon emissions. The results of this study suggest that reinforcing social capital through several channels may foster green practices and innovation diffusion to lower carbon emissions.
+Keywords: Carbon emissions; Indonesia; Social capital; Spatial dynamics; Spatial econometrics
+
+T․Johny Dathees, G. Narmatha, J. Prabhu, K. Parvatham, Velu Rajesh Kannan, R. Nandhakumar,
+Thiourea-derived fluorescent chemosensor for Ag⁺ ions and sequential detection of tryptophan with practical applications,
+Journal of Molecular Structure,
+Volume 1349, Part 2,
+2026,
+143836,
+ISSN 0022-2860,
+https://doi.org/10.1016/j.molstruc.2025.143836.
+(https://www.sciencedirect.com/science/article/pii/S0022286025024834)
+Abstract: A new thiourea-based fluorescent chemosensor, ITCNOD, was synthesized in 89 % yield via the condensation of N-phenyl-o-phenylenediamine with 1-isocyanatonaphthalene in ethanol, and its structure was confirmed by ¹H NMR, ¹³C NMR, and HRMS analyses. ITCNOD showed a selective “turn-on” fluorescence response to Ag⁺ ions at 304 nm in DMSO/H₂O (1:1, v/v) with 50 mM HEPES buffer at pH 7.0. Among several metal ions, only Ag⁺ caused significant fluorescence enhancement with minimal interference. Job’s plot, fluorescence titration, and Benesi–Hildebrand analysis confirmed a 1:1 binding stoichiometry, a high association constant (Ka= 9.69 × 10⁵ M⁻¹), and a low detection limit (1.68 × 10⁻⁸ M) for Ag⁺. The ITCNOD–Ag⁺ complex further enabled selective fluorescence quenching by tryptophan (Trp) among amino acids, with a LOD of 6.9 × 10⁻⁷ M and Ka = 3.5 × 10⁵ M⁻¹, indicating dual-analyte detection. Time-resolved and pH studies revealed optimal and reversible sensing between pH 7.0–8.0. The fluorescence enhancement is attributed to PET inhibition and ICT enhancement upon Ag⁺ binding, while Trp induces quenching through competitive coordination. This reversible “OFF–ON–OFF” fluorescence switching facilitated the development of an INHIBIT molecular logic gate, demonstrated through fluorescence logic circuits and EDTA/Trp cycling studies. ITCNOD’s practical utility was validated through Ag⁺ detection in real samples (water, soil, food, pharmaceuticals), with recovery rates of 94.1–102.1 % and strong correlation to ICP-OES (R² > 0.99). Additionally, paper strip-based testing and Escherichia coli fluorescence microscopy demonstrated the chemosensor’s potential for field-level diagnostics and bioimaging. The ITCNOD–Ag⁺ complex also showed visible colour change and in situ cellular fluorescence, confirming its dual-mode sensing capability.
+Keywords: Fluorescent chemosensor; Silver ion; Tryptophan; Logic gate; Paper strip assay; Bioimaging; ICT
+
+Longfeng Wu, Yichun Zhou, Xuanyi Nie, Seung Kyum Kim, Yuhan Shao, ChengHe Guan,
+Buffering effects of green space on residents' mental wellbeing: A regression discontinuity analysis during COVID containment policy shift,
+Cities,
+Volume 168,
+2026,
+106413,
+ISSN 0264-2751,
+https://doi.org/10.1016/j.cities.2025.106413.
+(https://www.sciencedirect.com/science/article/pii/S0264275125007140)
+Abstract: During the COVID-19 pandemic, access to green space was crucial for mental wellbeing, particularly in urban areas under lockdown. However, studies on the transition from strict containment measures to reopening are limited. This transition, while relaxing mobility and enabling free access to green spaces, also increases infection risks. Our study used a regression discontinuity design (RDD) with a unique dataset (N = 2545) from two major Chinese cities, Beijing and Shanghai, to examine the effects of the COVID containment policy shift on mental wellbeing and green space exposure. We compared participants by different green exposure categories to investigate variations in mental wellbeing during this transitional phase. The findings confirm that the policy does not promote short-term mental wellbeing, as measured by CES-D scores, self-rated health, happiness, and frequency of negative feelings. Residing 400–1200 m from a park, but not extremely close (within 400 m), confers mental health benefits. Visual exposure to greenery from windows bolsters mental wellbeing compared to limited greenery views, although the magnitude of this effect is modest. This study underscores the importance of urban green spaces in buffering mental wellbeing impacts of major policy changes during pandemic, highlighting their importance in urban planning and public health strategies.
+Keywords: mental wellbeing; urban park; green space exposure; regression discontinuity design; COVID-19 confinement
+
+Shaofeng Yan, Wei Zhang, Hongtao Tang, Guohui Zhang, Deming Lei,
+Reinforcement learning enhanced imperialist competitive algorithm for flexible job-shop scheduling problem with limited transportation and auxiliary resources,
+Expert Systems with Applications,
+Volume 297, Part C,
+2026,
+129467,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2025.129467.
+(https://www.sciencedirect.com/science/article/pii/S0957417425030830)
+Abstract: In the complex landscape of multi-dimensional coupling within intelligent manufacturing systems, optimizing decisions for the flexible job shop scheduling problem (FJSP) is influenced not only by the assignment of machine resources but also by the interplay with the transportation system and the availability of auxiliary resources. In this paper, a multi-objective FJSP model considering limited transportation and auxiliary resources is proposed in the context of hydraulic cylinder manufacturing, aiming to minimize the maximum completion time and semi-finished product inventory cost. To address the problem, a reinforcement learning enhanced imperialist competitive algorithm (RLICA) is proposed. The algorithm has the following features: multiple hybrid initialization strategies are introduced to enhance population diversity and quality. Additionally, a dynamic parameter adaptation strategy based on reinforcement learning is designed for the assimilation stage to optimize the exploration–exploitation balance during the colonization assimilation process. Finally, a two-layer neighborhood search operator is implemented to improve the algorithm’s local search capability. The experimental section evaluates the performance of the algorithm based on 33 benchmark instances and real enterprise data. The results demonstrate that RLICA significantly outperforms five other state-of-the-art algorithms regarding convergence, distribution, and robustness. Case study further demonstrates that the algorithm can effectively coordinate transportation, processing, and auxiliary resource systems, offering a robust scheduling optimization solution for complex manufacturing scenarios.
+Keywords: FJSP; Imperialist competitive algorithm; Reinforcement learning; Limited transportation resources; Limited auxiliary resources
+
+Shanan S. Tobe,
+Chapter 4 - Semen,
+Editor(s): Shanan S. Tobe,
+Forensic Serology,
+Academic Press,
+2026,
+Pages 131-208,
+ISBN 9780128129685,
+https://doi.org/10.1016/B978-0-12-812968-5.00004-0.
+(https://www.sciencedirect.com/science/article/pii/B9780128129685000040)
+Abstract: This chapter describes testing for semen in cases of sexual assault. The physiology of the male reproduction system is discussed as is the components of semen. Testing for semen is discussed from the early investigators, through to current techniques. Additionally time since intercourse, and time since deposition are also discussed.
+Keywords: Semen; sperm acid phosphataseprostate specific antigenspermatozoa
+
+Xiang Liu, Lifeng Li, Haijun Li, Yingke Deng, Yumeng Liu, Dechang Peng, Guojiang Wu, Xueming Zhou,
+Changes in dynamic and static functional connectivity in amygdala subregions in major depressive disorder treated with esketamine in and sertraline: A pilot study,
+Journal of Affective Disorders,
+Volume 392,
+2026,
+120156,
+ISSN 0165-0327,
+https://doi.org/10.1016/j.jad.2025.120156.
+(https://www.sciencedirect.com/science/article/pii/S0165032725015988)
+Abstract: Introduction
+Dysfunction in amygdala networks has been implicated in major depressive disorder (MDD). Pharmacological treatments, such as esketamine and sertraline, are believed to exert their antidepressant effects by modulating amygdalar activity. This study aimed to investigate the relationship between changes in dynamic functional connectivity (dFC) within amygdala subregions and treatment outcomes, with a focus on identifying potential neuroimaging markers.
+Methods
+Twenty-eight patients with MDD received six intravenous infusions of esketamine (0.25 mg/kg) combined with 2 weeks of sertraline treatment. Mood and cognitive recovery were assessed using the HAMA, HAMD, BSI, and MoCA. Seed-based dFC analysis of resting-state MRI focused on the dorsal amygdala (DA), medial amygdala (MA), and ventrolateral amygdala (VA).
+Results
+All patients demonstrated positive responses to treatment, with significant reductions in HAMA and HAMD scores, as well as improvements in MoCA scores and a decrease in suicidal ideation. Following treatment, static functional connectivity (sFC) was reduced between the right DA and paracentral lobule, the left VA and multiple regions (including the lentiform nucleus, thalamus, medial prefrontal cortex, inferior parietal lobule, precentral gyrus, and superior parietal lobule), and the right VA and middle frontal gyrus. Conversely, dFC was significantly increased between the right DA and cuneus/superior parietal lobule, and between the left VA and superior parietal lobule. A decrease in dFC was also observed between the left MA and superior temporal gyrus. Correlation analysis showed that dFC between the left MA and superior temporal gyrus was positively correlated with HAMA score.
+Limitation
+The combined use of esketamine and sertraline limits the ability to differentiate their individual effects. A significant proportion of the patients were adolescents, with only a few adults, which may influence the age-related response to treatment. The study utilized the lowest effective dose of esketamine, thereby leaving the dose-response relationships unexamined. The small sample size further restricts the statistical power of the findings, highlighting the need for larger studies to validate these results.
+Conclusion
+Altered resting-state and dFC in amygdala subregions may play a role in the mechanisms by which the combination of esketamine and sertraline alleviates depressive symptoms, primarily involving the sensorimotor and default mode networks. Together, the sFC and dFC analyses provide an integrated perspective on depression-related connectivity changes and offer potential targets for treatment.
+Keywords: Major depressive disorder; Esketamine; Dynamic functional connection; Sertraline
+
+Ria Aniza, Wei-Hsin Chen, Mathieu Petrissans, Anelie Petrissans,
+Chemical bioexergy analysis in thermochemically converted biomass fuels: An introductory review,
+Fuel,
+Volume 405, Part C,
+2026,
+136652,
+ISSN 0016-2361,
+https://doi.org/10.1016/j.fuel.2025.136652.
+(https://www.sciencedirect.com/science/article/pii/S0016236125023774)
+Abstract: Chemical biomass exergy (bioexergy) analysis is a powerful method for evaluating the efficiency and sustainability of biomass energy systems, focusing on elemental composition (C, H, O, N, and S). This review synthesizes insights from 101 studies, emphasizing exergy analysis applied to thermochemical processes with high exergy efficiencies: torrefaction (≥80 %), pyrolysis (52–98 %), and gasification (44–88.26 %). The ratio of chemical bioexergy to calorific value ranges from 1.013 to 1.078, indicating that calorific value alone underestimates the usable energy content by 1.3–7.8 %. Biomass fuels present unique challenges due to heterogeneous composition and complex conversion pathways, requiring precise data and thermodynamic understanding. Despite these difficulties, bioexergy analysis identifies irreversibilities and inefficiencies, aiding in the optimization of conversion processes and resource utilization. By clarifying thermodynamic fundamentals and demonstrating their practical relevance, this study contributes to the development of cleaner, more efficient biomass technologies aligned with circular economy principles.
+Keywords: Circular economy; Thermodynamic; Torrefaction and pyrolysis; Gasification; Biochar; Bioexergy
+
+Tan-Thich Do, Vinh-Dat Ly, Amornchai Arpornwichanop, Yong-Song Chen,
+Prediction of oxygen utilization and purge strategy optimization for proton exchange membrane fuel cells using an artificial neural network approach,
+Fuel,
+Volume 405, Part C,
+2026,
+136628,
+ISSN 0016-2361,
+https://doi.org/10.1016/j.fuel.2025.136628.
+(https://www.sciencedirect.com/science/article/pii/S0016236125023531)
+Abstract: Oxygen utilization in proton exchange membrane fuel cells (PEMFCs) plays a critical role, particularly in unmanned underwater vehicle (UUV) applications, where oxygen availability is limited. To enhance oxygen utilization, the dead-end cathode mode (DEC) is employed and investigated under various purge operations at operating load levels in this study. Oxygen utilization is experimentally determined and used to train an artificial neural network (ANN) model via the Levenberg–Marquardt algorithm at purge durations of 100, 500, and 900 ms. The ANN model is applied to predict oxygen utilization at purge durations of 300 and 700 ms, which are validated against experimental data. Furthermore, oxygen utilization is predicted at new purge durations of 200, 400, 600, and 800 ms. The model performance is evaluated and demonstrates a high correlation coefficient (R2), low mean absolute error (MAE), root mean square error (RMSE), and mean absolute percentage error (MAPE). The results indicate that, at the optimal purge duration of 100 ms and purge intervals of 35, 110, and 300 s, the maximum oxygen utilization of 9.4, 11.2, and 13.0 kJ L−1 is achieved under varying load levels of 0.8, 0.4, and 0.1 A cm−2, respectively. A cathode purge strategy for PEMFC is developed to optimize oxygen utilization for UUVs.
+Keywords: Prediction of oxygen utilization; Dead-end cathode; Artificial Neural Networks; Purge strategy; UUVs; Proton exchange membrane fuel cell
+
+Rubab Fatima, Farwa Mushtaq, Syeda Rubab Batool, Muhammad Anwaar Nazeer,
+Chapter 21 - Hydrogels for burn dressings and skin substitutes,
+Editor(s): Sabu Thomas, Bratati Das, Hanna J. Maria,
+In Woodhead Publishing Series in Biomaterials,
+Hydrogels for Wound Healing,
+Woodhead Publishing,
+2026,
+Pages 549-571,
+ISBN 9780323996105,
+https://doi.org/10.1016/B978-0-323-99610-5.00001-9.
+(https://www.sciencedirect.com/science/article/pii/B9780323996105000019)
+Abstract: Healthcare systems throughout the world are now burdened by burn injuries. Due to their special characteristics, hydrogel-based dressings have been extensively used to expedite burn healing and circumvent the drawbacks of conventional burn treatments. This chapter provides an updated summary of hydrogels’ application in burn wound healing and potential future hydrogels in regenerative burn wound healing. Burn wound (partial and full thickness) treatment challenges, numerous important hydrogel design issues, and available polymers for hydrogels in burn wound care are briefly covered while focusing on burn wound healing through skin regeneration.
+Keywords: hydrogel; burn dressing; skin substitute; skin regeneration.
+
+Ziqian He, Jiamin Huang, Yulei Wang, Youlin Huang, Zhishan Liang, Lijuan Chen, Xiaohui Guo, Dongxue Han,
+A sensitive photoelectrochemical aptasensor based on Bi/Bi2MoO6-modified phosphorus-doped ultrathin g-C3N4 formed Z-scheme heterojunction for tetracycline detection,
+Talanta,
+Volume 297, Part B,
+2026,
+128784,
+ISSN 0039-9140,
+https://doi.org/10.1016/j.talanta.2025.128784.
+(https://www.sciencedirect.com/science/article/pii/S0039914025012755)
+Abstract: Tetracycline (TC) is a common antibiotic with broad antibacterial activity, yet its excessive abuse will leave antibiotic residues in animal-derived food, posing some threats to human health. Therefore, developing a simple and effective technology for TC trace analysis is immediately important for food safety. Herein, the sensitive PEC aptasensor within Z-scheme heterojunction, based on Bi/Bi2MoO6 and P-doped ultrathin porous g-C3N4 (PCN), was constructed by elemental doping strategy, hydrothermal method and surface plasmon resonance (SPR) effect. Benefiting from the Z-scheme electron transmission way, the Bi/Bi2MoO6@PCN heterojunction significantly improves both visible-light absorption and the mobility of photogenerated carriers. Thus, the fabricated PEC aptasensor based on Bi/Bi2MoO6@PCN heterojunction exhibited outstanding selectivity and stability for TC detection, which displayed a wider linear range of 0.05–350 nM and a lower detection limit of 0.036 nM. In addition, the proposed aptasensor showed the acceptable recoveries (98.41–104.76 %) for TC residue analysis in animal-derived food, including milk, honey and pork. Therefore, it demonstrates that the PEC sensing technology possesses the excellent feasibility and application potential in food analysis.
+Keywords: Photoelectrochemical aptasensor; P-doped ultrathin porous g-C3N4; Bi/Bi2MoO6; Z-Scheme heterojunction; Tetracycline detection
+
+Don Donghee Shin,
+Chapter 7 - Artificial general intelligence and misinformation: balancing innovation and ethical challenges,
+Editor(s): Don Donghee Shin,
+Minds, Machines, and Misinformation,
+Elsevier,
+2026,
+Pages 173-199,
+ISBN 9780443161049,
+https://doi.org/10.1016/B978-0-443-16104-9.00008-7.
+(https://www.sciencedirect.com/science/article/pii/B9780443161049000087)
+Abstract: Artificial general intelligence (AGI) is poised to revolutionize multiple aspects of human life, offering unprecedented capabilities for problem-solving, decision-making, and autonomous learning. However, its influence on misinformation remains a critical issue. On the one hand, AGI offers advanced capabilities for combating misinformation, including real-time detection, cognitive inoculation, and automated fact-checking. On the other hand, AGI poses significant risks, such as generating highly sophisticated disinformation, enabling hyperpersonalized propaganda, and exacerbating existing information crises. This paper critically examines AGI’s dual role in the misinformation ecosystem, highlighting its potential as both a powerful tool for mitigation and a source of new threats. Ethical, technical, and governance implications are explored, with actionable recommendations for proactive policy and regulatory frameworks to ensure responsible deployment.
+Keywords: Artificial general intelligence; artificial misinformation; human-level capability
+
+Craig Kuziemsky, Rui Zhou, Siaw-Teng Liaw,
+Chapter 7 - Managing health systems to improve digital health maturity,
+Editor(s): Siaw-Teng Liaw, Jitendra Jonnagaddala, Myron Anthony Godinho, Zoie Shui Yee Wilkins-Wong,
+Digital Health Maturity: Quality, Interoperability, and Innovation,
+Academic Press,
+2026,
+Pages 179-194,
+ISBN 9780323952606,
+https://doi.org/10.1016/B978-0-323-95260-6.00007-1.
+(https://www.sciencedirect.com/science/article/pii/B9780323952606000071)
+Abstract: This chapter describes the digital health management journey from aspiration and planning to implementation and evaluation and achieving sustainable operations and scale-up. This sociotechnical enterprise-wide endeavor incorporates the leadership commitment, strategic and financial planning, strategic resource allocation, change management, procurement, and technology adoption and implementation that evolves over time. Managing the envisioning and planning phase involves assessing DHM as a strategic requirement for establishing realistic goals by (1) determining current maturity, (2) identifying the gaps and opportunities, and, accordingly, (3) prioritizing investment, funding, and resource allocations to facilitate optimal conditions for the digital health program to thrive. During the implementation and operations phase, DHM remains a guiding principle for (1) managing the overall performance of a digital health program in alignment with the organization's strategic priorities, (2) change management processes, and (3) evaluating the impacts of implemented changes to the organization's digital health maturity. The DHM can guide a systematic approach to uncover new ways to scale-up program impact for the end users and health ecosystem partners.
+Keywords: Management; Health system; Project management; Technology management; Technological change; Organizational behavior; Strategic investment
+
+Saheed Layiwola Bello,
+Chapter 16 - Optimal green energy policy supports for rural water facility operation in Nigeria,
+Editor(s): Hooi Hooi Lean, Jin Hooi Chan,
+Energy Economics, Finance, and Management in Developing and Emerging  Economies,
+Elsevier,
+2026,
+Pages 327-346,
+ISBN 9780443247286,
+https://doi.org/10.1016/B978-0-443-24728-6.00003-8.
+(https://www.sciencedirect.com/science/article/pii/B9780443247286000038)
+Abstract: Access to good water facilities remains a significant obstacle in developing countries, including Nigeria. While modern water facilities provide an effective solution to this obstacle, lack of electricity access in most rural communities and unreliable supply of grid-connected areas hinder the effective and efficient operations of modern water facilities. Thus, this chapter explores optimal strategies that can be implemented to support the water facility operation in rural communities using potential renewable energy resources. Based on stakeholder interviews, the chapter reveals that mitigating the high upfront costs of solar-powered water facilities and providing know-how training to the local youth would strengthen the sustainability of the water facility operations.
+Keywords: Government policy support; Renewable energy; Rural community; Water facility operation
+
+Jinglong Chen, Junyi Wen, Yufeng Deng, Mingwen Chen, Feicheng Ma,
+Measuring policy diffusion intensity: A text-driven analysis of government documents,
+Information Processing & Management,
+Volume 63, Issue 2, Part A,
+2026,
+104383,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2025.104383.
+(https://www.sciencedirect.com/science/article/pii/S0306457325003243)
+Abstract: Accurately measuring policy diffusion intensity is crucial for understanding innovation dissemination mechanisms, yet existing approaches face limitations in capturing its dynamic nature. By applying text-driven methods to government documents, this research constructs a two-dimensional quantitative indicator that integrates both hierarchical effectiveness and textual intensity to capture policy diffusion dynamics. Using the panel data analysis of 9091 government documents from 2007 to 2022, we systematically examine the diffusion mechanisms of China's low-carbon policies. Our findings reveal that learning, imitation, and coercion are the primary mechanisms driving the intensity of low-carbon policy diffusion, while economic competition plays an insignificant role. Furthermore, urban carbon emission levels and public environmental awareness promote policy diffusion, whereas energy consumption dependency inhibits it. By demonstrating an effective application of text mining techniques in measuring policy diffusion intensity, this study provides new methodological and empirical insights for understanding policy diffusion within multi-level governance systems.
+Keywords: Policy diffusion; Policy quantification; Text mining, Low-carbon policy
+
+Laura Melelli, Lucie Kubalíková, Pierluigi Brandolini, Maurizio Del Monte,
+Chapter 11 - Challenges concerning geoheritage in urban areas,
+Editor(s): Emmanuel Reynard, José Brilha,
+Geoheritage (Second Edition),
+Elsevier,
+2026,
+Pages 243-268,
+ISBN 9780443289972,
+https://doi.org/10.1016/B978-0-443-28997-2.00022-4.
+(https://www.sciencedirect.com/science/article/pii/B9780443289972000224)
+Abstract: Geoheritage in urban areas is shaped by the interaction between humans and the environment, resulting in unique features that distinguish them from those found in natural areas. Historical, architectural, archaeological and cultural values can complement geoheritage, enriching its contents and enhancing understanding. Cities also provide established routes for tourism and digital infrastructures that can incorporate geological content. Additionally, museums and historic buildings in urban areas can serve as venues for the conservation and display of ex situ exhibits. However, despite these advantages, geoheritage in urban areas remains vulnerable due to insufficient consideration of the abiotic values of the territory and the impacts of human interaction, which can lead to damage or loss of geoheritage. Disseminating knowledge about urban geoheritage is a crucial initial step in raising awareness among citizens, tourists and public administrations about these often-overlooked resources, which are vital for the sustainable growth of cities. This chapter addresses the characteristics and specificities of urban geoheritage, the methods used for its assessment, its vulnerabilities, and its potential for geotourism and education.
+Keywords: Urban geoheritage; urban geology; geotourism; in situ and ex situ geoheritage; geocultural sites
+
+Daniel Corral, Matt Jones,
+Encouraging unitary and compositional representations for relational concept learning,
+Cognition,
+Volume 266,
+2026,
+106303,
+ISSN 0010-0277,
+https://doi.org/10.1016/j.cognition.2025.106303.
+(https://www.sciencedirect.com/science/article/pii/S0010027725002434)
+Abstract: Current theories of relational learning based on structure mapping emphasize the importance of compositional representations, based on the concept's interconnections among its elements. We consider the possibility that relational concepts can also be represented unitarily, whereby the concept is a property of the stimulus as a whole. The distinction between compositional and unitary representations of relational concepts is a natural consequence of structure-mapping theory, but its psychological implications have not been explored. We report three experiments in which we examine how encouraging subjects to represent relational concepts compositionally versus unitarily affects learning on classification- and inference-based category learning tasks. Our findings showed that encouraging unitary representations led to better learning than encouraging compositional representations, especially for inference-based learning. We conclude that unitary representations incur less cognitive load than structural alignment of compositional representations, and thus may be the default for everyday relational learning and reasoning.
+Keywords: Relational learning; Role-based reasoning; Unitary and compositional representations; Concept representation; Category learning
+
+Syed Salman Shafqat, Mahmood Ahmed, Asma Mukhtar,
+Chapter 5 - Sustainable sourcing and production of curcumin,
+Editor(s): Mahmood Ahmed, Syed Salman Shafqat,
+Curcumin Bioavailability and Sustainability as Therapeutic Agent,
+Academic Press,
+2026,
+Pages 121-152,
+ISBN 9780443291968,
+https://doi.org/10.1016/B978-0-443-29196-8.00002-1.
+(https://www.sciencedirect.com/science/article/pii/B9780443291968000021)
+Abstract: Curcuma longa is the main source of curcumin, a bioactive compound with significant properties because of its diverse use in the food, pharmaceutical, and nutraceutical sectors. This chapter explores sustainable sourcing and production techniques for curcumin, emphasizing environment-friendly extraction, purification, and biosynthesis methods. Nonconventional green technologies, like ionic liquid-based extraction, supercritical fluid extraction, enzyme-assisted extraction, and microwave-assisted extraction techniques, are compared with conventional techniques of extraction, such as Soxhlet extraction, steam distillation, and solvent extraction. Nonconventional techniques have shown advantages in higher yield, reduced energy consumption, and minimized solvent use. In addition, advanced purification techniques, including chromatography, crystallization, and preparative supercritical fluid chromatography, are discussed for obtaining high-purity curcumin. Biosynthetic pathways involving key enzymes, such as diketide-CoA synthase (DCS) and curcumin synthase, are highlighted, along with microbial engineering approaches using Escherichia coli for heterologous curcumin production. The chapter also identifies existing challenges, including scalability and economic feasibility, and underscores the need for integrated extraction and purification systems to enhance industrial curcumin production. Future research should optimize biosynthetic pathways and develop cost-effective, sustainable methods for large-scale curcumin production.
+Keywords: Biosynthesis; Curcumin; Enzymes; Escherichia coli; Extraction; Microwave extraction; Production; Supercritical fluid
+
+Jitendra Jonnagaddala, Siaw-Teng Liaw,
+Chapter 10 - Mature and evidence-based digital public goods, including AI-DPGs,
+Editor(s): Siaw-Teng Liaw, Jitendra Jonnagaddala, Myron Anthony Godinho, Zoie Shui Yee Wilkins-Wong,
+Digital Health Maturity: Quality, Interoperability, and Innovation,
+Academic Press,
+2026,
+Pages 243-264,
+ISBN 9780323952606,
+https://doi.org/10.1016/B978-0-323-95260-6.00010-1.
+(https://www.sciencedirect.com/science/article/pii/B9780323952606000101)
+Abstract: This chapter identifies and reviews digital public goods (DPGs) available for use in conjunction with DHPMAT to improve and maintain the maturity of essential digital foundations. DPGs are open and interoperable tools that adhere to best practices and regulations. Many DPGs have been assessed and reported in the context of digital health maturity (DHM), particularly in low- and middle-income countries (LMICs). However, scientific knowledge and evidence regarding the implementation of these tools are limited. This chapter systematically identifies the DPGs that can contribute to DHM in LMICs. The shortlisted DPG tools were reviewed to understand their contributions to various DHM levels. Additionally, this chapter also systematically scopes and critically appraises mature DPGs available to LMICs, which are scalable and adhere to the principles of DHM3. A shortlist of AI-based tools, toolkits, and frameworks (collectively called AI-DPGs) that can assist LMICs in improving their AI-related DHM is created based on evidence of their implementation in LMICs. The shortlisted AI-DPGs were also evaluated for their development, deployment, and operational stages, in alignment with SDG-3.
+Keywords: Digital public goods; Digital health global goods; Digital health tools; Digital health tools maturity; Global goods; Global goods maturity; Artificial intelligence; Low- and middle-income countries; Sustainable development goals; Digital health maturity assessment
+
+Jiayu Xie, Xi Li, Yongle Li, Bingna Lin, Zeyin Qiao,
+What accounts for the charm of collective tourism attraction? An explanation from the interaction ritual chains theory perspective,
+Journal of Destination Marketing & Management,
+Volume 39,
+2026,
+101043,
+ISSN 2212-571X,
+https://doi.org/10.1016/j.jdmm.2025.101043.
+(https://www.sciencedirect.com/science/article/pii/S2212571X25000551)
+Abstract: Perceived emotional synchrony is a positive collective emotion that has a substantial impact on the experience of group activities. However, the mechanism of its formation and the subsequent impact have not been thoroughly investigated. Based on the interaction ritual chains theory, the research explores the role of perceived emotional synchrony and its mechanism. A mixed-method approach and a multi-study method were employed, consisting of social network analysis (Study 1: N = 2595), in-depth interviews (Study 2: N = 16), and questionnaires (Study 3: N = 585). The results shed light on the importance of perceived emotional synchrony by revealing how perceived emotional synchrony is formulated and how perceived emotional synchrony increases the probability of tourists re-engaging in the activities. This research also offers practical implications for the experience design of collective activities and tourism destination management.
+Keywords: Interaction ritual chains theory; Perceived emotional synchrony; Shared beliefs; Memory; Social interaction
+
+Gayatri Singh, Shivani Gunnam, Alka Lohani,
+Chapter 2 - Integrating nanotechnology in clinical management of dermatological conditions—The need of modern health care,
+Editor(s): Alka Lohani, Shahbaz Khan, Pierfrancesco Morganti,
+Nanodermatology,
+Elsevier,
+2026,
+Pages 23-40,
+ISBN 9780443363269,
+https://doi.org/10.1016/B978-0-443-36326-9.00017-4.
+(https://www.sciencedirect.com/science/article/pii/B9780443363269000174)
+Abstract: The application of nanotechnology to the clinical treatment of dermatological disorders is a revolutionary development in contemporary medicine. Innovative approaches to targeted delivery of drugs, improved therapeutic efficacy, and less side effects are provided by nanotechnology in the treatment of skin conditions such as psoriasis, eczema, acne, and skin cancer . Active drugs can be precisely distributed to impacted areas by using nanocarriers such as liposomes, nanoparticles, and dendrimers, which enhances bioavailability and patient compliance. The increased potential and acceptance of nanotechnology in medical practice are demonstrated by the growing number of clinical trials concentrating on dermatological therapies based on this technology. Notwithstanding its potential, issues including scalability, safety, and regulatory approval still exist. Nanotechnology, however, has enormous potential to transform dermatological care through continued research and cooperation, providing patients worldwide with individualized, efficient, and less invasive treatment alternatives. The necessity for ongoing innovation to address the rising prevalence of skin-related disorders is highlighted by this integration.
+Keywords: Clinical management; Clinical trials; Dermatology; Nanotechnology; Psoriasis; Skin cancer; Skin disease
+
+Petra Dvořáková, Lenka Lackóová, Zdeněk Keken, Lenka Wimmerová,
+Approval of transport infrastructure projects and systemic differences in EIA approaches: A comparative study of two central European countries,
+Environmental Impact Assessment Review,
+Volume 116,
+2026,
+108145,
+ISSN 0195-9255,
+https://doi.org/10.1016/j.eiar.2025.108145.
+(https://www.sciencedirect.com/science/article/pii/S0195925525003427)
+Abstract: Environmental Impact Assessment (EIA) is recognized globally as one of the most effective tools for protecting the environment. However, evaluating the effectiveness of EIAs is constantly at the forefront of the scientific and professional community. This study focused on differences in the approach to the EIA process for motorway projects in two neighbouring countries, Czechia and Slovakia, by analysing key elements of the process, using road ecology as a context. The study found not only differences in the number of proposed mitigation and follow-up monitoring measures, but also significant discrepancies in how these requirements are transferred and integrated across the individual stages of the EIA process. In addition, differences in the approach of experts to the design of mitigation measures and in the participation of the public in the EIA process were confirmed. These results suggest that the quality of the EIA process depends on dynamic feedback between the initial assessment and post-implementation monitoring. Recommendations are made to improve professional practice.
+Keywords: Decision-making; EIA effectiveness; Environmental monitoring; Landscape fragmentation; Transport infrastructure; Wildlife-vehicle collisions
+
+Don Donghee Shin,
+Chapter 1 - Unraveling susceptibility: the psychological drivers of belief and action on misinformation,
+Editor(s): Don Donghee Shin,
+Minds, Machines, and Misinformation,
+Elsevier,
+2026,
+Pages 1-32,
+ISBN 9780443161049,
+https://doi.org/10.1016/B978-0-443-16104-9.00001-4.
+(https://www.sciencedirect.com/science/article/pii/B9780443161049000014)
+Abstract: Research indicates that detecting false information is inherently challenging. When presented with new information, our primary focus is often on understanding it and deciding how to respond, rather than assessing its accuracy. Evaluating new information against our prior knowledge requires cognitive effort, and when false information appears plausible, we may inadvertently accept it as fact. Several psychological and contextual factors contribute to our susceptibility to misinformation. This article examines the psychological factors that make individuals susceptible to misinformation, focusing on cognitive, emotional, and social dimensions. Cognitive biases, such as confirmation bias and the illusory truth effect, distort critical evaluation, while emotional triggers like fear and outrage increase belief and sharing of false content. Social influences, including echo chambers and source credibility, further reinforce susceptibility.
+Keywords: Misinformation; misinformation ecology; economics of misinformation; susceptibility; algorithmic misinformation effect; misinformation experience; human–AI collaboration
+
+Dzul Hadzwan Husaini, Hooi Hooi Lean,
+Chapter 1 - The energy-growth nexus in Malaysia: Does energy security matter?,
+Editor(s): Hooi Hooi Lean, Jin Hooi Chan,
+Energy Economics, Finance, and Management in Developing and Emerging  Economies,
+Elsevier,
+2026,
+Pages 1-21,
+ISBN 9780443247286,
+https://doi.org/10.1016/B978-0-443-24728-6.00002-6.
+(https://www.sciencedirect.com/science/article/pii/B9780443247286000026)
+Abstract: Insecure energy supplies, along with variations in other factor costs, have an impact on total production costs and eventually lead to a cost disadvantage among producers. This, in turn, greatly affects the trajectory of national economic growth. The aim of this study is to investigate the role of energy security in driving economic growth in Malaysia. The study employs an annual time series data of Malaysia from 1980 to 2018. The Auto-Regressive Distributed Lag approach has been employed to compute the long-run estimation. The results show that energy security has a positive relationship with economic growth. It should be noted that the magnitude and sign of the signal varies across all dimensions. This study recommends establishing an advanced renewable energy system with a larger generation scale and more widespread transmission and distribution. This will improve energy security by reducing dependence on both imported energy and unsustainable energy sources.
+Keywords: ARDL; Economic growth; Energy security; Energy sustainability; Time series
+
+S.N. Sangeethaa, C. Kotteeswari, S. Jothimani, G. Rajeshkumar,
+Chapter 11 - Biosignal acquisition and processing for wearable sensors,
+Editor(s): S. Sountharrajan, M. Karthiga, Balamurugan Balusamy, Ali Kashif Bashir,
+In Medical Robots and Devices: New Developments and Advances,
+Applied Mathematical Modeling for Biomedical Robotics and Wearable Devices,
+Academic Press,
+2026,
+Pages 197-215,
+ISBN 9780443335143,
+https://doi.org/10.1016/B978-0-443-33514-3.00015-0.
+(https://www.sciencedirect.com/science/article/pii/B9780443335143000150)
+Abstract: Modern health care has witnessed numerous advancements in the analysis and interpretation of biosignals due to the merger of machine learning (ML) and signal processing. Biosignals are physiological data (e.g., electrocardiogram, electromyogram, and electroencephalogram) with high diagnostic and prognostic value across a range of medical domains. Nevertheless, organized philosophies should be utilized to process biosignal data in the investigation routine and decipher the intricacy of the biosignals. The proposed work strives to bridge the gap between biosignal acquisition and several useful outputs using wearable sensors, ML algorithms, and signal processing techniques. This proposed framework aims to leverage the latent information embedded into biosignals by harnessing the capabilities of ML algorithms in discovering high-order relationships in data and signal processing, which embodies a wide range of techniques for noise filtering, feature extraction, and pattern classification. The proposed work is a multimodal approach for analysis and interpretation of biosignals based on the blend of techniques of ML and signal processing. First, selected biosignals will undergo a detailed preprocessing step to minimize noise, artifacts, and fluctuation of the baseline to maintain data fidelity, providing a methodology that propels individual, professional, and healthcare systems alike into an era of personalized, data-driven healthcare delivery. Extraction of information from biosignal data will subsequently be carried out with feature extraction algorithms, simplifying the characterization of physiological processes. The biosignal data will then be analyzed using ML algorithms to discover intricate patterns and relationships among them, thus enabling tasks such as anomaly detection, classification, and grouping. Unsupervised learning methodologies are used to reveal patterns and structures that would otherwise remain hidden to the eye, and the supervised learning approach will help to build predictive models for diagnosis and prognosis of the disease. Essentially, the work that is being suggested represents the coming together of state-of-the-art computational techniques with the demands of contemporary health care, signaling the beginning of a revolutionary period in biosignal analysis and its social ramifications. The suggested framework aims to usher in a new era of individualized, data-driven healthcare delivery by empowering individuals, professionals, and healthcare systems alike through its revolutionary methodology.
+Keywords: Machine learning; computational intelligence; computer science; signal processing; statistical applications; data science; information systems; diagnostic procedure; biological sciences quantitative methods; digital signal processing; algorithms; speech processing; statistical physics; computer systems organization; statistics for research; pattern recognition; mathematical optimization; biosignal; classification; clustering; healthcare systems; preprocessing; supervised learning; wearable sensors
+
+Mahmood Ahmed, Syed Salman Shafqat,
+Chapter 3 - Formulation approaches for enhancing curcumin bioavailability,
+Editor(s): Mahmood Ahmed, Syed Salman Shafqat,
+Curcumin Bioavailability and Sustainability as Therapeutic Agent,
+Academic Press,
+2026,
+Pages 57-86,
+ISBN 9780443291968,
+https://doi.org/10.1016/B978-0-443-29196-8.00005-7.
+(https://www.sciencedirect.com/science/article/pii/B9780443291968000057)
+Abstract: Curcumin demonstrates a plethora of therapeutic properties and represents a nontoxic alternative for the treatment of various diseases. Nonetheless, its clinical utilization is obstructed by challenges such as suboptimal stability, insufficient solubility, and inadequate oral bioavailability, which result in rapid metabolic degradation and restricted absorption. Mitigating these issues necessitates the formulation of sophisticated curcumin delivery systems. Although a multitude of formulations has been proposed, only a limited number have been commercialized, attributable to factors such as economic viability, stability concerns, and complexities associated with production processes. The incorporation of nanotechnology has enabled the development of innovative approaches, such as nanoparticle encapsulation, aimed at enhancing the bioavailability of curcumin. Technologies, including microemulsions, liposomes, micelles, and nanocarriers, have been meticulously engineered to optimize circulation duration, permeability, and resistance to metabolic degradation. These advancements have effectively reduced curcumin to the nanoscale, thereby maximizing its bioactivity while minimizing the propensity for degradation. As a result, formulations of curcumin utilizing nanomaterials have garnered significant attention for both therapeutic and industrial purposes, offering promising enhancements in delivery systems that surmount conventional limitations.
+Keywords: Bioavailability; Drug delivery systems; Encapsulation; Liposomes; Metabolic resistance; Micelles; Microemulsions; Nanocarriers
+
+Junyao Tu, Panpan Zhou, Shuling Chen, Shaoyang Shen, Xingyu Liu, Xuezhang Xiao, Zhinian Li, Liuzhang Ouyang,
+Solid-state hydrogen storage alloys for production-storage and transportation-application coupling at ambient temperature: A review,
+Materials Science and Engineering: R: Reports,
+Volume 167,
+2026,
+101089,
+ISSN 0927-796X,
+https://doi.org/10.1016/j.mser.2025.101089.
+(https://www.sciencedirect.com/science/article/pii/S0927796X25001676)
+Abstract: Renewable energy is essential for achieving sustainable development in human society. As a renewable energy carrier, hydrogen holds significant promise as an alternative to traditional energy sources due to its high energy density, abundant availability, and zero-emission combustion. However, challenges such as high cost and low efficiency in hydrogen production, storage, transportation, and application contribute to its relatively low overall energy conversion efficiency. Therefore, establishing a comprehensive industrial system is crucial to advance the utilization of hydrogen energy. This review proposes an integrated industrial framework that includes offshore wind power and seawater electrolysis for hydrogen production, purification, storage, transportation, and application in fuel cells, offering a novel strategy for the development of the hydrogen energy industry. Additionally, we summarize advances in hydrogen storage alloys (HSAs), which can directly absorb hydrogen produced from seawater electrolysis and supply it at the required pressure for fuel cell applications. Based on their performance, we identify suitable HSAs from the existing studies that meet these criteria. These selected HSAs are integrated with hydrogen storage tanks and marine transportation to establish a completely coupled engineering system. This review offers insights into the future developmental potential of this system and its prospects for large-scale practical applications.
+Keywords: Coupling of hydrogen production-storage and transportation-application; Solid-state HSAs; Hydrogen storage properties; Hydrogen energy industry system
+
+Mauricio Z. Schuster, Arthur A.M. Barroso, François Gastal,
+Grassland phases as ecological buffers: Reducing invasive weeds even under drought-induced stress in cropping systems,
+Agriculture, Ecosystems & Environment,
+Volume 395,
+2026,
+109939,
+ISSN 0167-8809,
+https://doi.org/10.1016/j.agee.2025.109939.
+(https://www.sciencedirect.com/science/article/pii/S0167880925004712)
+Abstract: Agricultural systems are increasingly vulnerable to biological invasions and climate extremes, particularly drought, which can disrupt competitive balances and favor invasive weed establishment. Ecological strategies such as integrating temporary grassland phases into crop rotations offer potential to enhance system resilience, yet their long-term effectiveness under drought stress remains poorly quantified. A 12-year field experiment in western France was used to evaluated five rotational systems differing in the duration (3 or 6 years) and nitrogen fertilization of grassland phases within annual crop rotations. Weed invasion patterns were assessed using hierarchical statistical models, and an integrative drought stress index was developed to capture both the intensity and duration of water deficits over time. The influence of grassland management on invasive weed richness, temporal dynamics, drought sensitivity, and weed carryover between phases was examined. Invasive weed richness increased linearly with the proportion of annual crops, while systems with prolonged, well-fertilized grasslands exhibited significantly reduced invasion pressure—even under drought. Grassland phases buffered the effects of climate stress and minimized weed persistence across years, particularly when nitrogen inputs were adequate. Conceptualizing the system as a dynamic source–sink model revealed that crops serve as invasion sources, while well-managed grasslands act as ecological sinks that suppress invaders over time. These findings highlight the value of spatial–temporal diversification as a nature-based solution to reduce weed invasion in a changing climate. Incorporating extended grassland phases into rotations can strengthen agroecosystem resistance to invasive species and reduce dependency on chemical control strategies, contributing to the design of more sustainable and climate-resilient agricultural landscapes.
+Keywords: Grassland-crop rotation; Invasibility; Climate adaptation; Agroecosystem resilience; Nature-based solutions
+
+Zhentao Hu, Yihan Wang, Yanyang Li,
+A transformer-based hybrid network for Alzheimer's disease diagnosis via MRI,
+Digital Signal Processing,
+Volume 168, Part C,
+2026,
+105562,
+ISSN 1051-2004,
+https://doi.org/10.1016/j.dsp.2025.105562.
+(https://www.sciencedirect.com/science/article/pii/S1051200425005846)
+Abstract: Treating Alzheimer's disease (AD) is currently considered highly challenging among various neurodegenerative diseases. The precision of AD diagnosis can be confounded by multiple factors. Magnetic resonance imaging (MRI) is a critical tool for diagnosing AD. To assist physicians in clinical diagnosis, a new hybrid model, CTM-Net, is proposed based on MRI. CTM-Net incorporates a CNN enhanced by a channel attention mechanism to extract local fine-grained features from MRI slices, which are then mapped into high-level representations. Subsequently, the model integrates a Transformer's multi-head attention mechanism to capture long-range dependencies across MRI slices. The local continuity of features between two adjacent MRI slices is enhanced using a one-dimensional convolution operation, which gradually fuse spatially adjacent features to ultimately obtain global MRI information. CTM-Net was validated on the ADNI dataset. It achieved 92.70%, 83.00%, and 79.07% accuracy on the three classification tasks of AD vs. CN, AD vs. MCI, and MCI vs. CN, respectively. Compared to other models applied to AD classification tasks, the proposed model yielded superior results in terms of accuracy. CTM-Net is a Convolution-Transformer hybrid model for AD classification and diagnosis tasks, which can combine the advantages of the CNN and attention mechanism to make the most of interactive information between local lesion features and global context features for improving diagnosis efficiency.
+Keywords: Alzheimer's disease (AD); Magnetic resonance imaging (MRI); Convolutional neural network (CNN); Transformer
+
+Santheraleka Ramanathan, Ismariza Ismail, Thangavel Lakshmipriya, Subash C.B. Gopinath, Pachaiappan Raman, Yeng Chen, Firdaus Hariri, Abubakr M. Idris,
+Lanthanum strontium cobalt ferrite [La0.6Sr0.4Co0.2Fe0.8O3-δ] alloyed impedimetric sensing platform for human papillomavirus type 16 mutant DNA detection,
+Talanta,
+Volume 297, Part B,
+2026,
+128765,
+ISSN 0039-9140,
+https://doi.org/10.1016/j.talanta.2025.128765.
+(https://www.sciencedirect.com/science/article/pii/S0039914025012561)
+Abstract: Human papillomavirus type 16 (HPV-16) is a leading cause of cervical cancer among women worldwide. This study presents an electrochemical impedance spectroscopy (EIS)-based biosensor for the sensitive and selective detection of HPV-16 mutant DNA. A single-stranded DNA probe complementary to the target sequence was immobilized on a gold interdigitated electrode (G-IDE) modified with lanthanum strontium cobalt ferrite La0.6Sr0.4Co0.2Fe0.8O3−δ (LSCF) nanopowder to enhance charge transfer. The synthesized LSCF, composed of ∼32 nm discrete cubic particles, was characterized by electron microscopy, XRD, and SAED, confirming its crystalline structure. FTIR indicated metal-oxygen bonding, while Raman spectroscopy revealed oxygen and carbon non-stoichiometry in the perovskite. The developed sensor achieved a limit of detection of 0.0213 fM, with a tested detection range from 1 fM to 1 nM and a linear dynamic range from 1 fM to 100 pM (R2 = 0.9983). Selectivity was confirmed using mismatch and non-complementary strands, which produced negligible impedance changes. These results demonstrate the potential of the LSCF-G-IDE biosensor as a promising platform for future point-of-care HPV diagnostics.
+Keywords: Antigenic HPV-16; Electrochemical impedance; Alloys; Cervical cancer; Genosensing; Biomarker
+
+Tianyou Chen, Zushun Xu,
+Hydrophobic interaction-assisted immobilization of molecular catalysts into organic colloids: From organic synthesis in water to mimicking enzymes,
+Coordination Chemistry Reviews,
+Volume 547,
+2026,
+217129,
+ISSN 0010-8545,
+https://doi.org/10.1016/j.ccr.2025.217129.
+(https://www.sciencedirect.com/science/article/pii/S001085452500699X)
+Abstract: Hydrophobic interaction is one of the fundamental and critical driving forces in water for many biological activities such as the folding of enzymes and for many chemical phenomena such as the self-assembly of micelles. The development of organic synthesis in water is of paramount importance from both the economic and environmental points of view. To that end, the solubility issue of most organic reagents and the catalytic performance issue of molecular catalysts need to be tackled. Inspired by enzymes, the immobilization of molecular catalysts into organic colloids provides access to the implementation of organic catalytic synthesis in water. Furthermore, the hydrophobic interaction-assisted immobilization of molecular catalysts creates hydrophobic microenvironments, provides pseudo-solvent effects, and enables the compartmentalization of incompatible catalysts. In this review, we review the recent advances in the hydrophobic interaction-assisted immobilization of molecular catalysts into organic colloids. Three types of techniques, including self-assembly of amphiphiles, mixing-induced nanoprecipitation, and miniemulsion polymerization, have been recently utilized for the construction of these catalysts. Their preparation, characterization, and applications are summarized and discussed. The design principles, positive effects, and structure-activity relationships of these organic colloids will stimulate the development of more sustainable chemical processes and more efficient enzyme mimics.
+Keywords: Heterogeneous catalysis; Aggregation; Emulsion; Synergistic effect; Water
+
+Siaw-Teng Liaw,
+Chapter 1 - Digital health maturity,
+Editor(s): Siaw-Teng Liaw, Jitendra Jonnagaddala, Myron Anthony Godinho, Zoie Shui Yee Wilkins-Wong,
+Digital Health Maturity: Quality, Interoperability, and Innovation,
+Academic Press,
+2026,
+Pages 3-55,
+ISBN 9780323952606,
+https://doi.org/10.1016/B978-0-323-95260-6.00001-0.
+(https://www.sciencedirect.com/science/article/pii/B9780323952606000010)
+Abstract: This chapter describes the digital health maturity metamodel (DHM3), its operationalization as the Digital Health Profile & Maturity Assessment Toolkit (DHPMAT), and the co-creation methodology to ensure relevance, ownership, and social capital in the local community. The metamodel approach unifies digital health and integrates existing domain-specific maturity models. The five foundations (ICT and IoT infrastructure, Digital tools, Health information sharing, Enablers of trust, and Quality Improvement) are assessed at five maturity stages based on system performance and information sharing extent and quality. DHM3 asserts that all interventions, policies, and programs must advance the digital health maturity (DHM) and Quintuple Aim simultaneously. The DHPMAT systematically assesses DHM across the micro (individual), meso (organization), macro (national health system), and meta (global) levels of the enterprise. DHM stages are grounded on Stage 3 (Standardized), where the deliverable is an enterprise architecture and platform compliant with interoperability standards and quality benchmarks for data, tools, systems, and services. DHM stages are stable and managed, but the processes are dynamic, evolving nonlinearly due to intrinsic (e.g., digital assets, creators, and users) and extrinsic factors (e.g., geopolitics, priorities, and opportunities).
+Keywords: Digital health; Maturity; Metamodel; Framework; Standards; Interoperability; Data quality; Quality improvement; Enterprise architecture; Digital transformation; Real world
+
+Gio Karlo Evangelista, Kristine Samoy-Pascual, Romeo J. Cabangon, Manuel J. Regalado, Yuji Enriquez, Rubenito Lampayan, Arnel Rala, Sudhir Yadav,
+Why AWD isn't taking off: Understanding barriers and pathways for scaling in gravity-fed irrigation systems in rice landscape,
+Agricultural Systems,
+Volume 231,
+2026,
+104491,
+ISSN 0308-521X,
+https://doi.org/10.1016/j.agsy.2025.104491.
+(https://www.sciencedirect.com/science/article/pii/S0308521X25002318)
+Abstract: CONTEXT
+Alternate Wetting and Drying (AWD) offers considerable potential to reduce water use and methane emissions in irrigated rice systems without compromising yields. However, despite decades of promotion, AWD adoption remains limited, especially in gravity-fed irrigation systems where institutional and agro-environmental complexities pose challenges to implementation.
+OBJECTIVE
+This study assessed the biophysical, socio-economic, and institutional determinants of AWD adoption at the turnout level in a gravity-fed irrigation system in Nueva Ecija, Philippines. The aim was to identify key barriers and opportunities for scaling AWD under spatially heterogeneous and rotationally scheduled irrigation conditions.
+METHODS
+Six turnouts within the Lateral G canal of the Upper Pampanga River Integrated Irrigation System were selected. Data were collected on plot elevation, soil texture, ownership patterns, water application, and grain yield. Water governance structures were analysed through focus group discussions and interviews with stakeholders. A decision logic framework was used to classify AWD adoption based on field-level water depth measurements.
+RESULTS AND CONCLUSIONS
+AWD reduced irrigation input by 21 % in the dry season and 50 % in the wet season while maintaining yields. However, adoption was constrained by elevation-driven water flow patterns, clay distribution, tenant-operated plots, and rigid rotational schedules. AWD adoption was more feasible during the wet season due to reduced irrigation risk. Weak farmer engagement in decision-making limited field-level adaptability.
+SIGNIFICANCE
+Scaling AWD requires reconfigured irrigation governance, integration of real-time water monitoring technologies, and economic incentives such as carbon financing. Context-specific, multi-level interventions are essential to enable large-scale AWD implementation in gravity-fed systems.
+Keywords: Water governance; Spatial variability; Scaling; Impact pathway; Decision-making; Rice productivity
+
+Xuguang Wang, Yaxin Liu, Huiling Liu, Shuang Xiao, Hongyang Wang, Dianhua Liu,
+Critical insights into Metal-Support interactions (MSI): Ionic radius effects on metal dispersion in CO2 hydrogenation catalysts for methanol synthesis,
+Fuel,
+Volume 405, Part C,
+2026,
+136674,
+ISSN 0016-2361,
+https://doi.org/10.1016/j.fuel.2025.136674.
+(https://www.sciencedirect.com/science/article/pii/S0016236125023993)
+Abstract: The Metal-Support Interactions (MSI) effect has been widely proposed and applied in catalyst design, playing a pivotal role in catalytic mechanism research and performance enhancement. However, in catalyst research as a branch of surface science, surface elemental distribution is often overlooked. This study systematically reveals the intrinsic relationship between ionic radius and surface elemental distribution in catalysts by synthesizing a series of Cu-Zn/MO catalysts. XPS, H2-TPR, and catalyst evaluation results show that the interaction between Cu and La2O3 is stronger. This characteristic leads Cu-Zn/La2O3 to exhibit the highest methanol yield per gram of surface copper (13.44 gMeOH/gCu/h), which is higher than Cu-Zn/Al2O3 (11.20 gMeOH/gCu/h). Further investigation demonstrates that due to the radius of Al3+ (0.53 Å) is smaller than that of Cu2+ (0.72 Å) and Zn2+ (0.74 Å); and the radius of Ce4+ (0.92 Å) and La3+ (1.03 Å) are larger than those of Cu2+ and Zn2+. Consequently, when Cu is loaded onto La2O3 and CeO2 supports, the active Cu component incorporates into the support lattice, resulting in fewer active components on the surface. In contrast, when Cu is deposited on Al2O3, the active Cu component remains well-dispersed on the catalyst surface. Furthermore, Cu-Zn/Al2O3 exhibited the lowest activation energy (22.85 kJ/mol). This study provides a new perspective for the traditional approach of solely focusing on MSI in catalyst design, emphasizing the importance of regulating surface elemental distribution.
+Keywords: Metal-support interactions (MSI); Ionic radius; CO2; Methanol
+
+Myron Anthony Godinho, Siaw-Teng Liaw,
+Chapter 9 - Digital health diplomacy, cooperation, and harmonization for global digital health maturity,
+Editor(s): Siaw-Teng Liaw, Jitendra Jonnagaddala, Myron Anthony Godinho, Zoie Shui Yee Wilkins-Wong,
+Digital Health Maturity: Quality, Interoperability, and Innovation,
+Academic Press,
+2026,
+Pages 221-240,
+ISBN 9780323952606,
+https://doi.org/10.1016/B978-0-323-95260-6.00009-5.
+(https://www.sciencedirect.com/science/article/pii/B9780323952606000095)
+Abstract: Policy and regulatory frameworks ensure that all players in the digital health ecosystem operate according to common standards, benchmarks, and rules—including at the national, regional, and global levels. Interoperable health data lies at the core of this global digital health (GDH) enterprise. COVID-19 showed that health data inevitably moves beyond borders in our increasingly globalized world. The worldwide distribution of health data highlights the need to ensure that digital health policies and regulatory frameworks are aligned across national, regional, and global borders to ensure that data security and privacy are protected consistently and interoperability standards exist for transnational systems. The FAIR (Findable, Accessible, Interoperable, and Reusable) principles provide a framework for encoding operational rules, values, and norms, while digital public goods can serve as common mechanisms to operationalize these in practice across a range of global settings.
+Keywords: Digital health policy; Regulations; Standards; Interoperability; Data protection; Private and public intellectual property; Social capital; Borders; Diplomacy; Leadership; Trust; Quality improvement; Competencies; Fit-for-purpose digital tools; Data quality; Knowledge exchange; Intersectoral harmonization; Ethical, legal & social issues (ELSI)
+
+Thomas Standaert, Petra Andries,
+Overcoming difficulties in knowledge transfer: Harnessing the power of AI to drive process innovation,
+Technovation,
+Volume 149,
+2026,
+103350,
+ISSN 0166-4972,
+https://doi.org/10.1016/j.technovation.2025.103350.
+(https://www.sciencedirect.com/science/article/pii/S0166497225001828)
+Abstract: Process innovation is a crucial driver of firms’ competitiveness, but difficulties in knowledge transfer make it challenging. Drawing on the ability-motivation-opportunity framework for knowledge transfer, we propose that the scale on which firms deploy AI technologies has a positive impact on the likelihood they introduce process innovations, as AI overcomes human limitations related to the ability and motivation for knowledge transfer. Moreover, we argue that this relationship will be more pronounced when there is lower opportunity for interpersonal knowledge transfer, and in particular when firms (a) have a large number of employees, (b) do not provide on-site employee training, and (c) have higher employee turnover. We use a unique combination of survey and social balance sheet data on a sample of 2268 Belgian firms. Heckman maximum-likelihood probit models and several robustness tests confirm the majority of our hypotheses. The study enriches the literature on process innovation and knowledge management, and provides important theoretical and practical insights on how and under which circumstances AI can lead to a competitive advantage.
+Keywords: Artificial intelligence; Process innovation; Knowledge; Knowledge transfer; Interpersonal interaction
+
+Chengchen Jiang, Danli Jin, Ziqi Chen, Zhengbiao Gu, Li Cheng, Zheming Zhang, Yan Hong,
+Emulsion gels based on OSA modified high amylose maize starch: Formation, interfacial properties, and stability,
+Food Hydrocolloids,
+Volume 172, Part 1,
+2026,
+111918,
+ISSN 0268-005X,
+https://doi.org/10.1016/j.foodhyd.2025.111918.
+(https://www.sciencedirect.com/science/article/pii/S0268005X25008781)
+Abstract: Emulsion gels based on biomacromolecules have emerged as promising alternatives to those stabilized by traditional surfactants, addressing safety concerns in food applications. High amylose maize starch (HAMS) exhibits exceptional gel-forming capability due to its unique amylose-to-amylopectin ratio, rendering it a promising material for emulsion gels. However, its strong hydrophilicity and dense granular structure restrict interfacial adsorption, limiting practical applications. Herein, an innovative emulsion gel system based solely on HAMS was developed by integrating octenyl succinic anhydride (OSA) modification with microwave treatment-assisted gelatinization, enabling efficient energy utilization, green clean-label production, and simplified processing. The effects of starch concentration (c = 2–8 %) and oil fraction (Φ = 30–60 %) on gel properties were systematically investigated to reveal the formation mechanism. Increasing the starch concentration or oil fraction improved droplet uniformity, self-supporting ability, gel strength, and water holding capacity. Furthermore, Cryo-SEM analysis revealed sufficient starch addition played a more critical role in stable gel network formation, which formed ''sheet-like'' networks, whereas oil droplets acted as active fillers and reinforced the gel matrix through interfacial starch-starch interactions. The stability analyzer indicated that higher starch concentrations and oil fractions synergistically enhanced the storage stability of emulsion gels. This study provides a green, clean-label strategy for HAMS utilization in emulsion gels, alongside insights into structure-function relationships and potential applications in fat replacement and bioactive delivery.
+Keywords: High amylose maize starch; Octenyl succinic anhydride; Microwave treatment; Emulsion gel; Gel properties
+
+C.V.C. Grilo, M.J.B.B. Davi, L.S. Lessa, D.V. Coury, R.A.S. Fernandes,
+Improving fault location in wind farm interconnection lines through fault resistance estimation,
+Electric Power Systems Research,
+Volume 250,
+2026,
+112140,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2025.112140.
+(https://www.sciencedirect.com/science/article/pii/S037877962500728X)
+Abstract: Electric power systems are continuously evolving to meet the growing demand. International agreements aim to increase the share of sustainable energy sources, which enhances the relevance of inverter-based resources (IBRs) interconnection lines. However, in power grids with IBRs, protection systems face challenges due to the behavior of voltages and currents. While phasor-based fault location is widely used, it is significantly impacted by fault resistance. Thus, the present article proposes an approach that combines apparent impedance techniques with machine learning (ML), using data exclusively from the substation, to accurately estimate fault locations in IBRs interconnection lines. Initially, a ML-based approach estimates the fault resistance and applies a compensation factor to estimate the fault current. The approach proved promising, reducing average errors in the fault location task to less than 1% without requiring new meters in the system, communication structures between transmission line terminals, or meters with higher sampling frequencies.
+Keywords: Fault location; Impedance-based fault location; Inverter-based resources; Machine learning
+
+Abdelazim Ibrahim, Ahmed Farouk Kineber, Saeed Reza Mohandes, Yini Lan, Saeed Banihashemi, Pshtiwan Shakor,
+Understanding risk dynamics in digital twin integration: A causal analysis for smart infrastructure projects,
+Expert Systems with Applications,
+Volume 297, Part C,
+2026,
+129533,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2025.129533.
+(https://www.sciencedirect.com/science/article/pii/S0957417425031483)
+Abstract: Innovative infrastructure projects are changing how cities and industries are developed by using advanced technologies to improve efficiency, sustainability, and resilience. These projects focus on managing infrastructure assets more effectively through real-time monitoring, predictive maintenance, and data-driven decisions. In this context, digital twin technology plays a key role by providing a virtual model of physical systems that updates in real time. By synchronizing real-time data with simulation models, digital twins support enhanced situational awareness, scenario testing, and performance optimization. However, implementing digital twins involves a complex process that introduces multidimensional risks, many of which are poorly understood. This study addresses the gap by identifying and analyzing key risk factors associated with digital twin adoption. A hybrid approach combines a systematic literature review, expert validation from 19 professionals, and fuzzy Decision-Making Trial and Evaluation Laboratory analysis to map and prioritize 15 critical risks across four categories: Technological, Governance/Ethical, Social, and Economic. Results indicate that economic challenges are central drivers, while data privacy and security, computational resource limitations, lack of transparency, job displacement, and high implementation costs represent significant secondary risks. Expert consultations identified practical strategies to reduce the top risks, including strong data governance, gradual (iterative) technology rollout, continuous performance monitoring, and designing systems with users in mind. These strategies directly address the most critical risks highlighted in the analysis. The structured risk framework provides actionable insights for policymakers and practitioners, supporting informed decision-making and robust risk management strategies. These findings enhance understanding of potential barriers and contribute to more sustainable and responsible deployment of digital twin technology in infrastructure and beyond.
+Keywords: Industry 4.0; Decision support systems; Digital Twins; Infrastructure resilience; FDEMATEL; Technology adoption
+
+Don Donghee Shin,
+Chapter 2 - The diffusion of misinformation: how and why does misinformation spread?,
+Editor(s): Don Donghee Shin,
+Minds, Machines, and Misinformation,
+Elsevier,
+2026,
+Pages 33-65,
+ISBN 9780443161049,
+https://doi.org/10.1016/B978-0-443-16104-9.00002-6.
+(https://www.sciencedirect.com/science/article/pii/B9780443161049000026)
+Abstract: Misinformation has become a societal challenge in the age of AI, spreading quickly across AI platforms and infiltrating public discourse. It propagates faster than the truth and is more likely to be accepted, particularly when it resonates with people’s biases or existing beliefs. Drawing on Everett Rogers' Diffusion of Innovation Theory, this chapter analyzes the spread of misinformation through the framework of adopter categories, diffusion attributes, and the diffusion curve, offering a comprehensive approach to understanding its dissemination. By investigating cognitive, technological, and social factors, this chapter provides a well-rounded perspective on how and why misinformation proliferates and endures. The findings present actionable insights for policymakers, educators, platform designers, and researchers. These insights guide strategies aimed at mitigating the societal impact of misinformation and fostering a more informed and resilient public discourse.
+Keywords: Misinformation diffusion; misinformation curve; misinformation attributes; amplification; spreads of falsehood; cognitive bias; social contagion; steep s-curve
+
+Himanshu Paliwal, Akanksha Kasture, Pratiksha Khedkar, Tejas Rangbhal, Bhupendra G. Prajapati,
+Chapter 8 - Application of quantum dots for the diagnosis and treatment of eye melanoma,
+Editor(s): Bhupendra G. Prajapati, Devesh U. Kapoor, Nemat Ali,
+Eye Melanoma Unveiled,
+Academic Press,
+2026,
+Pages 147-172,
+ISBN 9780443275418,
+https://doi.org/10.1016/B978-0-443-27541-8.00014-6.
+(https://www.sciencedirect.com/science/article/pii/B9780443275418000146)
+Abstract: This chapter is focused on the innovative application of quantum dots (QDs) in the diagnosis and treatment of eye melanoma. The unique optical and electrical features of QDs put forward considerable advancements in imaging quality, targeted drug delivery, and multimodal therapeutic approaches. In this chapter, the synthesis and functionalization of QDs were discussed for improving the biocompatibility and lowering the toxicity, dealing with challenges linked with conventional methods. Their contribution to fluorescence imaging, photodynamic therapy, and photothermal therapy was highlighted, especially their potential in targeted treatment strategies. Further, the use of QDs in resolving the issue with biological barriers, facilitating sustained release of therapeutic agents, and combining diagnostics with therapeutics was discussed. The future of QDs in biomedical research should be focused on preparing safe QD derivatives, optimizing targeting mechanisms, and developments in regulatory frameworks required to enable transition to clinical settings. It can be concluded that QDs represent a revolutionizing tool in ophthalmic oncology, which may lead to improvement in patient outcomes in the treatment of ocular melanoma via safer, efficient, and personalized therapeutic strategies.
+Keywords: Eye melanoma; Fluorescence imaging; Ophthalmic oncology; Quantum dots; Therapeutic delivery
+
+Dianlei Han, Lizhi Ren, Changwei Li, Hairui Liu, Jinrui Hu, Deyong Yang, Qizhi Yang,
+Mechanical response of wet and soft soil to complex interactions with solid,
+Soil and Tillage Research,
+Volume 255,
+2026,
+106834,
+ISSN 0167-1987,
+https://doi.org/10.1016/j.still.2025.106834.
+(https://www.sciencedirect.com/science/article/pii/S0167198725003885)
+Abstract: This study addresses the gap in theoretical frameworks for understanding the mechanics of solid-soil interactions in wet and soft soil. Using the walking wheel foot as the research object, this work investigates the effects of solid orientation and soil moisture content on intrusion and lifting performance during complex solid actions. The intrusion and lifting processes were simulated using the EDEM discrete element method to analyze the micro-scale characteristics of the velocity fields and particle movement patterns in water-saturated soils under varying intrusion and lifting angles. At a constant soil moisture level, both intrusion resistance and lifting resistance decreased gradually with an increase in the intrusion angle of the solid. Regarding the influence of soil moisture content, the intrusion resistance of the solid exhibited a pattern of initial decrease, followed by an increase, and a final decrease. The primary and secondary influencing factors were determined through a two-factor analysis. Discrete element simulation results indicate that the solid’s impact on soil particles primarily forms a conical shear zone, with the disturbance range of the soil particles decreasing as the solid’s angle increases. Based on the intrusion tests and simulation results, a pressure-bearing mechanical model incorporating the solid's intrusion angle was developed. Correlation coefficients for farmland soils with varying moisture contents are provided, offering a new design reference and theoretical basis for advancing traveling device technology in wet and soft terrains, as well as for predicting solid performance.
+Keywords: Solid-soil interactions; Farmland soil; Solid orientation; Mechanical model; Discrete element simulation
+
+Sabrina Chakori, Nicola J. Grigg, Katharina Biely, Jennifer B. Hinton, Gaël Plumecocq, Russell Richards, Ben Robra,
+From innovation to exnovation: insights from post-growth food enterprises in Australia,
+Ecological Economics,
+Volume 239,
+2026,
+108785,
+ISSN 0921-8009,
+https://doi.org/10.1016/j.ecolecon.2025.108785.
+(https://www.sciencedirect.com/science/article/pii/S092180092500268X)
+Abstract: This study explores systemic barriers and enablers of post-growth food enterprises in Australia. We analyse three different case studies that offer alternative models of entrepreneurial approaches for achieving sustainability outcomes as a higher priority than economic growth. We identified three post-growth food enterprises that operate at different stages of the food supply chain. We found that these enterprises work towards various, interconnected, sustainability goals by embedding diverse principles into their organisational structure and operations. Their not-for-profit structure enables them to avoid trade-offs between financial extractivism and socio-ecological well-being goals. Additionally, we explored the systemic barriers faced by these enterprises, recognising that they are embedded in an economic system that favours and rewards the pursuit of economic growth. To navigate these barriers, the cases analysed adopted various innovative approaches, such as fostering alternative funding schemes, ways to acquire farmland and technology. While their bottom-up approaches are important, the inertia of dominant food systems impedes transitions to alternatives. We suggest that exnovation – the process of deliberately phasing out unsustainable practices – warrants more attention. For example, exnovating goals, policies, and performance metrics that prioritise economic growth at the expense of sustainability could play a crucial role in unlocking post-growth models. This study provides an orientation for further theoretical and empirical research about post-growth food systems transitions and stresses the value of engaging more with the wider political, economic, and legal foundations of transitions.
+Keywords: Degrowth; Post-growth; Food systems; Transitions; Exnovation; Sustainability
+
+Sarah Lange, Steffen Lange,
+Climate neutrality scenarios: How they deal with economic growth, employment and social acceptance,
+Ecological Economics,
+Volume 239,
+2026,
+108774,
+ISSN 0921-8009,
+https://doi.org/10.1016/j.ecolecon.2025.108774.
+(https://www.sciencedirect.com/science/article/pii/S0921800925002575)
+Abstract: Climate neutrality is controversially discussed - in particular regarding its implications on socio-economic factors such as economic growth, employment and social acceptance. Several scenarios inform discussions and policies on how Germany can achieve greenhouse gas neutrality by 2045. We investigate 33 climate neutrality scenarios, using a document analysis We find that (1) 28 scenarios assume an absolute, sufficiently large, and time-lasting decoupling of economic growth and greenhouse gas emissions, despite empirical evidence that this is infeasible; (2) the scenarios focus on efficiency and consistency rather than sufficiency strategies; (3) they do not model the effects the measures proposed to achieve climate neutrality have on economic growth; (4) the scenarios do not calculate implications regarding the level and structure of employment, and (5) issues of social acceptance are mentioned but not integrated into the proposals made. Overall, the scenarios inadequately address the role of economic growth, which significantly affects the credibility and feasibility of their projections. Future scenarios therefore need to anticipate impacts in particular on economic growth but also on employment, and further socio-economic aspects in order to propose feasible and just pathways towards climate neutrality.
+Keywords: Degrowth; Modeling; Policy evaluation; Scenarios; Transition; Climate neutrality
+
+Tiancheng Shan, Zhonghui Li, Haishan Jia, Enyuan Wang, Yue Niu, Xin Zhang, Yunpeng Zhang, Yan Li,
+Investigation of tunnel size effects on rockburst behaviors using electric potential monitoring under true triaxial loading conditions,
+Tunnelling and Underground Space Technology,
+Volume 167,
+2026,
+107057,
+ISSN 0886-7798,
+https://doi.org/10.1016/j.tust.2025.107057.
+(https://www.sciencedirect.com/science/article/pii/S0886779825006959)
+Abstract: Rockburst is a severe geological disaster that poses significant challenges to underground rock engineering. In this study, true triaxial loading tests were conducted on cubic sandstone samples with a hole under four different hole size conditions to investigate the influence of tunnel size effects on rockburst evolution and fracture behaviors. Through electric potential (EP) technology and particle flow numerical simulations, the failure evolution of tunnel sidewalls and rockburst modes of samples were revealed. The influence of tunnel sizes on rockburst mechanisms and EP generation were further examined by analyzing the multiple-scale fracture features and electrical parameters. Results show that an increase in hole diameters alters the stress concentration distribution and crack propagation modes, leading to larger deformation, smaller rockburst strength, and broader affected regions. Rockburst-induced fracturing leads to microstructure changes, resulting in charge accumulation and significant alterations in the electric field, which in turn trigger anomalous response features detected by EP technology. The EP imaging sensitively captures damage features of rockburst, aligning well with stress field evolution. Moreover, the intensity and abruptness of EPs become more pronounced with increasing hole diameters. Three mechanisms are proposed to explain these observations. (i) The load-bearing capacity of rock mass weakens, which promotes rockburst initiation while suppressing rockburst strength. (ii) The local stress concentrations and initial fracture locations are altered due to changes in crack propagation paths, affecting both the extent and severity of rockburst. (iii) The lower stress concentration and slower energy release occur, resulting in a more complex crack network. Based on well agreement between experimental observations and numerical simulations, the study summarizes three distinct rockburst failure modes under the effect of tunnel diameters. These findings enhance our understanding of rockburst disasters in real tunnel environments and provide potential engineering measures for rockburst prevention.
+Keywords: Rockburst; Size effect; True triaxial condition; Fracture feature; Electric potential; Mechanism
+
+Cheng yang, Xiaodong Su,
+Enhancing patient treatment classification in healthcare: A comparative analysis of machine learning techniques on electronic health record data,
+Biomedical Signal Processing and Control,
+Volume 112, Part D,
+2026,
+108543,
+ISSN 1746-8094,
+https://doi.org/10.1016/j.bspc.2025.108543.
+(https://www.sciencedirect.com/science/article/pii/S1746809425010547)
+Abstract: This study is directed at the essential task of patient treatment classification, which is essential for personalized and optimal healthcare. The overall aim is to optimize the accuracy of classification models in order to allocate treatments correctly and avoid the risk of misdiagnosis or ineffective treatments. In pursuit of this aim, the research compares different machine-learning models with the aim of improving the present classification models. The approach involves the assessment of widely used models like Gradient Boosting, K-Nearest Neighbors (KNN), Logistic Regression, Random Forest, and support vector machines (SVM) using an electronic health record (EHR) corpus. By extensive training, cross-validation, and testing, the research compares the performances of each model in patient treatment classification. The results present notable disparities in the performances of the models, with the emphasis being the necessity of the selection of the optimal model for the process. The applied value of the research is significant. By ascertaining the optimal machine learning model for patient treatment classification, the results can be used directly to optimize the accuracy and trustworthiness of healthcare models, ultimately contributing to improved patient results. This research is unique in the extensive assessment of multiple machine-learning models specifically for patient treatment classification. It establishes the optimal model with the foundation for the creation of more trusty and resilient classification models in healthcare.
+Keywords: Patient treatment classification; Machine learning techniques; Electronic health record data; Healthcare analytics; Classification accuracy
+
+Kuldeep Singh Kaswan, Jagjit Singh Dhatterwal, Suman Chahar,
+Chapter 6 - Kinematics and dynamics of surgical robots,
+Editor(s): S. Sountharrajan, M. Karthiga, Balamurugan Balusamy, Ali Kashif Bashir,
+In Medical Robots and Devices: New Developments and Advances,
+Applied Mathematical Modeling for Biomedical Robotics and Wearable Devices,
+Academic Press,
+2026,
+Pages 99-115,
+ISBN 9780443335143,
+https://doi.org/10.1016/B978-0-443-33514-3.00005-8.
+(https://www.sciencedirect.com/science/article/pii/B9780443335143000058)
+Abstract: Surgical robots are one of the biggest medical shifts in the contemporary world, providing precision, dexterity levels, and minimally invasive surgery. Thus, the description of the kinematics as well as the dynamics of these robots would enhance the understanding of the robots in achieving safe and accurate operations within the surgical procedures. In this chapter, a comprehensible review and analysis of the principles of kinematic and dynamic models in surgical robots have been undertaken alongside the display of their importance, difficulty, and expectation in the feature. Surgical robots—like the Da Vinci surgical system—are increasingly being used in one surgical specialty or another because of their variable benefits in that they can improve the precision of surgical operations. Nevertheless, to ensure their efficiency, their kinematics and dynamics must be modeled correctly. This chapter provides an overview of kinematics and dynamics concepts to be used in advanced surgical robot designs. It encompasses as far as forward and inverse kinematics, movement dynamics, and control methodologies. Examples have been used from the real world to support the learning objectives of these concepts. The enhanced functionality of surgeries means that such procedures require profound control of the robotic manipulators to perform their functions; therefore, specific knowledge about their kinematic designs and dynamic patterns is essential. Some of the issues like the size of the workspace, the constraints between the links, and the timing requirements are rather daunting to deal with when it comes to achieving high performance. The primary goal of this chapter is therefore to review the principles of kinematics and dynamics in surgical robotics and present the readers with the background knowledge as well as pointers regarding their application. It looks at areas of concern and control methods to stimulate the furthering of innovation and development. An important understanding of these kinematic and dynamic models is presented in this chapter, which unveils the dynamics of interaction between a robotic manipulator and a surgical workspace. Furthermore, it surfaces the tools of impedance control and haptic feedback that hold prominence in making surgical apparitions and augment the surgeon’s ability. In summary, this reflection highlights the need for practical-oriented application of surgical robots where theory is integrated with base practical approaches to improve the effectiveness of current healthcare systems.
+Keywords: Surgical robots; kinematics; robotic manipulators; Lagrangian mechanics; path planning algorithms; robotics; surgical procedure; manufacturing engineering; control systems; mechanical systems; computer-aided engineering; computational intelligence; neurosurgery
+
+Nam Foo, Hooi Hooi Lean, Ruhul Salim,
+Chapter 5 - Macroeconomic analysis of fuel subsidy reforms in ASEAN countries,
+Editor(s): Hooi Hooi Lean, Jin Hooi Chan,
+Energy Economics, Finance, and Management in Developing and Emerging  Economies,
+Elsevier,
+2026,
+Pages 95-113,
+ISBN 9780443247286,
+https://doi.org/10.1016/B978-0-443-24728-6.00012-9.
+(https://www.sciencedirect.com/science/article/pii/B9780443247286000129)
+Abstract: Countries in the Association of Southeast Asian Nations (ASEAN) have a long history of fuel subsidy policies and are now undertaking substantial reforms. This chapter aims to contribute to the debate on fuel subsidy policy in ASEAN countries by using the pooled mean group (PMG) estimator and monthly panel data from 2003m1 to 2022m10. The empirical results show that removing fuel subsidies affects overall household consumption, GDP, and oil prices in both the short and long run of these countries. Thus, abolishing fuel subsidies in ASEAN countries may significantly alter citizens' living standards. Hence, the policy recommendations for ASEAN countries include adopting a non-price energy policy in the energy sector, such as autonomous energy efficiency improvement and green energy technologies. Doing so will promote the development of a clean and diversified energy economy and maintain the growth trajectories of ASEAN countries.
+Keywords: ARDL; ASEAN; Crude oil; Subsidies
+
+Sridevi S, Dhivya L. S, Ankul Singh S, Monisha A, Harikrishnan N, Bhupendra G. Prajapati,
+Chapter 11 - Treatment modalities: Surgery and radiotherapy for eye melanoma,
+Editor(s): Bhupendra G. Prajapati, Devesh U. Kapoor, Nemat Ali,
+Eye Melanoma Unveiled,
+Academic Press,
+2026,
+Pages 221-254,
+ISBN 9780443275418,
+https://doi.org/10.1016/B978-0-443-27541-8.00011-0.
+(https://www.sciencedirect.com/science/article/pii/B9780443275418000110)
+Abstract: Eye melanoma, often referred to as ocular melanoma, arises in the melanocytes of the eye and is a rare and severe form of cancer. Treatment options include radiation or surgical intervention, according to the tumor location, morphology, and stage, as well as the patient's overall health and ocular criteria. Surgical interventions, such as localized tumor resection and removal, aim to eradicate cancerous tissue while optimizing the maintenance of visual function. Conservative surgical techniques have advanced recently to improve medical results, making it possible to do deeper resections. A non-invasive technique called radiotherapy, which includes proton beam treatment and plaque brachytherapy, delivers strong doses of radiation straight to the tumor surface while sparing tissue that is healthy nearby. These radiotherapeutic techniques have shown efficacy in localized tumor control and have become the primary treatment for numerous tiny to large melanomas. All treatment approaches, however, include potential complications including radiation retinal degeneration, cataract formation, and secondary vision impairment. This chapter reviews the effectiveness, applications, and outcomes of surgery and radiotherapeutic procedures for ocular melanoma, emphasizing the need of individualized treatment options to enhance local tumor control.
+Keywords: Ocular melanoma; Radiation therapy; Surgical intervention; Tumor control; Visual function maintenance
+
+Chandrabhan Prajapati, Payal Singh, Sachchida Nand Rai, Santosh Kumar Singh,
+Chapter 1 - Unraveling the complexity of chronic diseases: an introductory exploration,
+Editor(s): Sachchida Nand Rai, Santosh Kumar Singh, Veer Singh,
+Advancements in Modeling-Based Therapeutics and Technology for Chronic Diseases,
+Academic Press,
+2026,
+Pages 3-50,
+ISBN 9780443338779,
+https://doi.org/10.1016/B978-0-443-33877-9.00005-7.
+(https://www.sciencedirect.com/science/article/pii/B9780443338779000057)
+Abstract: Chronic illnesses comprising diabetes, cardiovascular, cancerous diseases, along with depression present a major global health challenge due to their long duration, gradual onset, and often irreversible progression. These conditions can lead to severe complications, including damage to organs such as the heart and kidneys while also increasing susceptibility to infectious illnesses like coronavirus disease-2019. Noncommunicable diseases account for 74% of worldwide deaths, with 77% occurring in low as well as moderate-income countries. The economic burden of chronic diseases is also substantial, contributing to $3.8 trillion in healthcare costs yearly in the United States. The personal toll of chronic illness is significant, affecting patients’ autonomy, identity, and mental well-being, as long-term management often leads to lifestyle changes and stress. Despite the importance of primary care, most health systems remain focused on acute, episodic care, lacking the infrastructure for sustained, coordinated management. This highlights the need for healthcare policies to prioritize long-term, proactive care. Prevention, early diagnosis, and lifestyle changes are essential in reducing the impact of chronic diseases. Advances in precision medicine, polygenic risk prediction, and digital health technologies offer the potential for better detection and management, though their collective impact at the population level requires further study. In low-resource settings, the challenge of managing both chronic and communicable diseases is even more pressing. Limitations of this chapter include evolving definitions of chronic illness and the lack of comprehensive data on integrated prevention and management strategies, especially in low-income regions, underscoring the need for further research.
+Keywords: Cancer; COPD; Diabetes; Inflammation; Oxidative stress; Parkinson; ROS
+
+Don Donghee Shin,
+Chapter 3 - Human–misinformation interaction,
+Editor(s): Don Donghee Shin,
+Minds, Machines, and Misinformation,
+Elsevier,
+2026,
+Pages 67-86,
+ISBN 9780443161049,
+https://doi.org/10.1016/B978-0-443-16104-9.00003-8.
+(https://www.sciencedirect.com/science/article/pii/B9780443161049000038)
+Abstract: Human attention naturally gravitates toward moral and emotional information, a tendency that remains just as strong online as it is offline. When this inherent bias interacts with social media algorithms designed to maximize user engagement by curating attention-grabbing content, moral and emotional information gains a disproportionate advantage in the online ecosystem. This dynamic creates an environment where misinformation can thrive, exploiting these biases to spread rapidly. This chapter reviews evidence illustrating the interplay between human tendencies and algorithmic design, arguing that this interaction plays a critical role in the dissemination of misinformation. By addressing both human behavior and algorithmic structures, we can effectively combat misinformation problems. It outlines several promising directions for research into the psychological factors underlying misinformation sharing within the framework of human–algorithm interaction.
+Keywords: Human–misinformation interaction; dual approach to address misinformation
+
+Siyi Wang, Haizhen Wen, Eddie Chi-Man Hui, Yue Xiao, Juanfeng Zhang,
+Visible environment and invisible label: Does stigmatization exist in old communities in Hangzhou, China?,
+Cities,
+Volume 168,
+2026,
+106417,
+ISSN 0264-2751,
+https://doi.org/10.1016/j.cities.2025.106417.
+(https://www.sciencedirect.com/science/article/pii/S0264275125007188)
+Abstract: Old residential communities in Chinese cities are byproducts of urbanization and often suffer from poor living conditions and other negative issues. Due to prolonged neglect in maintenance and management, these communities are susceptible to external stigmatization. However, existing research rarely examines the effect of stigma on housing prices in such neighborhoods. To address this gap, this study explores the influence of stigmatization on housing prices in old urban communities, with a particular emphasis on the mediating role of the neighborhood environment. Utilizing street view image data and deep learning methods, this study constructs six indicators of the neighborhood environment: greenness, openness, walkability, imaginability, enclosure, and complexity. Based on these indicators, a hedonic pricing model and a mediation effect model are developed to empirically examine the complex relationships among old communities, neighborhood environment, and housing prices. To address the potential limitations of linear models, a robustness check was conducted by using a Gradient Boosted Decision Tree (GBDT) model combined with SHAP analysis. The results indicate that a significant stigma effect exists in old communities, leading to an overall decline in housing prices by 11 %. Further analysis reveals that this stigma effect can be categorized into a direct effect of psychological labeling (−9.6 %) and an indirect effect mediated by environmental factors (−1.4 %). The non-linear model produced highly consistent results, with the indirect effect mediated by the neighborhood environment accounting for 16.7 % of the total effect. These findings highlight the dominant role of social perception over physical conditions in shaping housing prices. The study offers empirical support for stigma theory in urban housing markets and provides practical implications for neighborhood regeneration strategies.
+Keywords: Old community; Stigma effect; Housing price; Neighborhood environment; Mediation model; Street view image
+
+Mahmood Ahmed, Sehar Basheer,
+Chapter 4 - Novel delivery systems for curcumin,
+Editor(s): Mahmood Ahmed, Syed Salman Shafqat,
+Curcumin Bioavailability and Sustainability as Therapeutic Agent,
+Academic Press,
+2026,
+Pages 87-120,
+ISBN 9780443291968,
+https://doi.org/10.1016/B978-0-443-29196-8.00011-2.
+(https://www.sciencedirect.com/science/article/pii/B9780443291968000112)
+Abstract: Curcumin, a natural polyphenolic compound, holds significant therapeutic potential, primarily because of its anticancer, antioxidant, and antiinflammatory properties. Despite its therapeutic potential, curcumin faces significant challenges for effective clinical translation due to its poor aqueous solubility, rapid metabolism, and limited systemic bioavailability. This chapter explores novel drug delivery systems designed to overcome these limitations, including nanoparticles (NPs), liposomes, solid lipid NPs, nanoemulsions, and hydrogels. Advanced encapsulation techniques, such as PLGA NPs, exosomes, and protein-based nanocarriers, are highlighted for their effectiveness in improving the stability of curcumin, bioavailability, and targeted delivery. In addition, the potential of nanotechnology in enhancing the therapeutic effectiveness of curcumin in treating inflammatory diseases, cancer, and other chronic conditions is critically reviewed. Insights into sustained-release mechanisms, improved pharmacokinetic profiles, and specific applications of curcumin-loaded systems provide a comprehensive guide for future research in this domain.
+Keywords: Bioavailability; Cancer treatment; Drug delivery systems; Liposomes; Nanoparticles; Nanotechnology; Pharmacokinetics; Targeted therapy
+
+Shama Mujawar, Durairaj Vijayasarathi, Tanishqa Annam, Tanaya Deshpande, Abha Prabhune, Aarohi Deshpande, Bhupendra G. Prajapati,
+Chapter 2 - Eye melanoma: Epidemiology and risk factors,
+Editor(s): Bhupendra G. Prajapati, Devesh U. Kapoor, Nemat Ali,
+Eye Melanoma Unveiled,
+Academic Press,
+2026,
+Pages 21-32,
+ISBN 9780443275418,
+https://doi.org/10.1016/B978-0-443-27541-8.00007-9.
+(https://www.sciencedirect.com/science/article/pii/B9780443275418000079)
+Abstract: Ocular melanoma, also known as uveal melanoma, is a rare but potentially deadly cancer that develops in the eye's melanocytes, which are pigment-producing cells. It ranks as the most widespread form of melanoma following skin melanoma in terms of occurrence. Although it can happen at any age, it usually appears initially between the ages of 50 and 70. Men are slightly more likely than women to be affected, and there has become a slight male dominance. In the US and Europe, the occurrence rate is roughly five to six cases per million individuals annually. On a global scale, the frequency varies, with Asian as well as African populations experiencing lower prevalence. Approximately 85%–90% of ocular tumors develop in the uveal tract, specifically in the choroid, which is the blood vessels layer underneath the retina. The ciliary organ or iris may be the site of the remaining infections. Conjunctival melanomas are particularly less common and possess an altered likelihood and epidemiological study. This chapter explores the epidemiology and causes of melanoma while discussing its diagnosis and treatment to underscore its importance in public health awareness. It discusses the population demographics by shedding light on the vulnerability of individuals with fair skin and light-colored eyes and the differing occurrence rates, across various regions. Various factors contribute to risks such as genetic inclinations and effects of light iris colors. Determining at-risk populations and improving early detection techniques require an understanding of the epidemiology of ocular melanoma. Treatment options are significantly impacted by this knowledge because it empowers medical professionals to create tailored interventions based on particular risk factors. The progress in methods that aid in detection such as imaging techniques and genetic tests that play a vital role in enhancing patient results has been discussed. It also covers treatment choices including localized therapies, radiation, and surgical procedures as upcoming targeted therapies showing potential in treating advanced stages of the disease. This chapter seeks to enhance our knowledge of melanoma by combining research and clinical discoveries to benefit healthcare experts and researchers working in this area.
+Keywords: Epidemiology; Eye cancer; Intraocular melanoma; Uveal melanoma
+
+Sui Liu, Zhaomin Tong, Yaolin Liu, Huiting Chen, Yanfang Liu,
+What is the quality of urban expansion under different expansion patterns? A study of Chinese cities,
+Cities,
+Volume 168,
+2026,
+106409,
+ISSN 0264-2751,
+https://doi.org/10.1016/j.cities.2025.106409.
+(https://www.sciencedirect.com/science/article/pii/S0264275125007103)
+Abstract: The promotion of sustainable development widely acknowledges the importance of achieving reasonable and healthy urban expansion. This study proposes a people-land-industry-environment (PLIE) framework to evaluate the quality of urban expansion (QoUE) in Chinese cities during 2010–2015 and 2015–2020. The results reveal that: 1) The dominant urban expansion patterns in Chinese cities are shifting, leading to a more compact urban form. 2) During the study periods, QoUE values ranged from (0, 59.00] and (0, 61.18], respectively. The high-high clusters of QoUE are mainly in Beijing-Tianjin-Hebei, Yangtze River Delta, Pearl River Delta urban agglomeration and Upper Yangtze River region. The low-low units are in Shandong and Xinjiang, respectively. The spatial clustering of infilling and edge-expansion quality enhances. And the values of the indicators on infilling and edge expansion patches are higher. 3) The tertiary industry as percentage to GDP (TIP) positively affects QoUE at a global scale, and the other factors affect QoUE at varying scales and directions. The results offer policy implications for sustainable land use and high-quality urban development. Moreover, the concept of urban expansion evaluation can be adapted and extended for broader applications.
+Keywords: Urban expansion patterns; Urban expansion evaluation; Quality; Chinese cities; Policy suggestions
+
+Edouard Mensah, Mateusz Filipski,
+Saving for a rainy day: The impact of storms on saving rates,
+Ecological Economics,
+Volume 239,
+2026,
+108769,
+ISSN 0921-8009,
+https://doi.org/10.1016/j.ecolecon.2025.108769.
+(https://www.sciencedirect.com/science/article/pii/S0921800925002526)
+Abstract: Over the period 1950–2019, 40% of estimated damages caused by natural disasters worldwide are attributed to storms (EM-DAT). While it is important to apprehend how people recover from these disasters, little is known about the role of saving in the process of disaster recovery. This paper empirically investigates dynamics in the saving behavior induced by storm events. Using an event study design and merging data from the Penn World Table with the EM-DAT database for 176 countries in a 69-year long period, we find a decrease in annual private saving rates by 1.85 and 2.29 percentage points four and five years following storms, respectively. Further results indicate that storms slow down per capita labor income growth by about 3 percentage points in the first two post-storm years. For intensely damaging storms, it follows a fall in saving rates by 3.19, 4.98, and 4.59 percentage points in the third, fourth, and fifth post-storm year, respectively. Declining international aid, financial access, coverage of social protection and labor programs, and rule of law within the first three post-storm years precede the falling saving rates. Robustness checks using the ifo GAME database reveal that the propensity to dis-save following the strike of a storm is instantaneous in developing countries, while it is delayed by up to three years in developed countries where people have a buffer against intense storms.
+Keywords: Disaster; Savings; Event study
+
+Michael Kahn, Jitendra Jonnagaddala, Siaw-Teng Liaw,
+Chapter 3 - Digital Health Maturity Stage 3: Standardized and interoperable,
+Editor(s): Siaw-Teng Liaw, Jitendra Jonnagaddala, Myron Anthony Godinho, Zoie Shui Yee Wilkins-Wong,
+Digital Health Maturity: Quality, Interoperability, and Innovation,
+Academic Press,
+2026,
+Pages 83-109,
+ISBN 9780323952606,
+https://doi.org/10.1016/B978-0-323-95260-6.00003-4.
+(https://www.sciencedirect.com/science/article/pii/B9780323952606000034)
+Abstract: DHM Stage 3 aims to deliver a standardized digital health organization that regularly shares data, information, and knowledge on request across. The technical objective is a mature, fit-for-purpose standards-based enterprise architecture that can support and sustain the advanced optimization and innovation activities in later maturity stages. Stage 3 builds on the stable infrastructure and performance metrics from Stage 2 to establish best practices, quality benchmarks, and interoperability standards that make existing resources usable by a wider set of users. This includes improving data quality (DQ) throughout the data lifecycle. By standardizing DQ, interoperability, and performance measures, institutions can share findings, experiences, best practices, procedures, and policies across programs and sites collaboratively rather than “go-it-alone.” Seamless data exchange between applications supports the organization and individuals to optimize knowledge exchange and advanced analytics central to Stages 4 and 5. Many DHM Stage 3 activities are technical and mostly “invisible” to users until new capabilities begin to surface in later maturity stages.
+Keywords: HIT standards; Interoperability; Enterprise architecture; Platform; Continuous data quality improvement; Knowledge sharing
+
+Fiona Chi, Wai Ching Wilson Au, Nelson Kee Fu Tsang, Heesup Han,
+The voice-pitch-induced identifiable victim effect in hotels' pro-environmental communications,
+Tourism Management,
+Volume 113,
+2026,
+105293,
+ISSN 0261-5177,
+https://doi.org/10.1016/j.tourman.2025.105293.
+(https://www.sciencedirect.com/science/article/pii/S0261517725001633)
+Abstract: Hotels are increasingly implementing pro-environmental policies to reduce the industry's harmful impact on the environment. However, effective communication of such policies is crucial to generate support and preserve guest satisfaction. Grounded in sound symbolism, this study examines how the pitch of a video voiceover influences the identifiable victim effect, ultimately shaping tourists' support for pro-environmental practices in hotels. Two experimental studies consistently demonstrate that a higher-pitch (vs. lower-pitch) voice leads participants to perceive the speaker as younger while simultaneously heightening their sense of victimization by environmental degradation. This voice-induced perception serves as a salient verbal cue that activates the identifiable victim effect through moral emotions. These findings extend our understanding of how voice pitch modulates both biological (age) and psychological (victimization) perceptions in video-based environmental communication. Practically, this study puts forward a way that tourism businesses can immediately and easily enhance the effectiveness of their pro-environmental messaging by adjusting the voice pitch.
+Keywords: Voice pitch; Age perception; Victimization perception; Moral emotions; The identifiable victim effect; Sound symbolism
+
+Shuang Yang, Jianhui Deng, Zhaopeng Zhang, Hua Li,
+Evaluating the degree of jointing in highly stressed rock masses: A simple wave velocity model and its application,
+Tunnelling and Underground Space Technology,
+Volume 167,
+2026,
+107016,
+ISSN 0886-7798,
+https://doi.org/10.1016/j.tust.2025.107016.
+(https://www.sciencedirect.com/science/article/pii/S0886779825006546)
+Abstract: Seismic wave velocity measurements are extensively employed across various disciplines within geoscience, geoengineering, and geo-resource studies to gather insights into the geological characteristics of rock formations, such as the degree of jointing. However, the wave velocity often shows clear stress-induced “anisotropy” in the presence of non-hydrostatic stress field. A correction method to assess the degree of jointing considering P-wave velocity and the in-situ stress conditions is presented in this study. The theoretical relationship between P-wave velocity and stress anisotropy is proposed for porous rocks in principal stress space based on experimental evidence. The P-wave velocity in arbitrary direction under three-dimensional stress conditions is approximated based on a velocity-ellipsoid model. Thus, the degree of jointing or the rock mass integrity can be evaluated by comparing field-measured wave velocity of rock masses with that of laboratory-tested rock cores under uniaxial stress conditions, with the inclusion of a stress-dependent velocity correction. Based on the in-situ stress and wave velocity testing data from a traffic tunnel at the Jinping-II hydropower station, this proposed method for evaluating the degree of jointing is validated. Correlating the wave velocity of intact rock cores with in-situ stress conditions prevents anomalies where the ratio of the velocity of rock masses to that of rock cores exceeds 1. Some rock masses originally classified as Grade I were downgraded, necessitating different support measures.
+Keywords: Rock masses; P-wave velocity; Stress dependency; Integrity evaluation; In situ stress
+
+D. Sasikala, Suresh Kumar K., Muhammadu Sathik Raja, Vinod Kumar D., Umamageswari D., Girimurugan R.,
+Chapter 2 - Mathematical modeling in healthcare engineering,
+Editor(s): S. Sountharrajan, M. Karthiga, Balamurugan Balusamy, Ali Kashif Bashir,
+In Medical Robots and Devices: New Developments and Advances,
+Applied Mathematical Modeling for Biomedical Robotics and Wearable Devices,
+Academic Press,
+2026,
+Pages 15-35,
+ISBN 9780443335143,
+https://doi.org/10.1016/B978-0-443-33514-3.00004-6.
+(https://www.sciencedirect.com/science/article/pii/B9780443335143000046)
+Abstract: This chapter aims to present essential insights into the use of computer technology and the construction of mathematical models for the development of healthcare engineering with focus on early disease diagnosis, medication control, and medical image processing. Recent developments and possible future directions of biomedical models are discussed based on differential equations, statistics, machine learning, and network science. Such models are important to represent the dispersion of medication, refine cancer therapies, and enhance the quality of images used in diagnosing patients. Drug–protein interactions, a method that belongs to network science, help to predict targets of the drugs, their metabolisms, and subsequent doses and toxicity levels. However, the chapter also includes different types of problems and issues, including the issue of data quality and volume, the privacy and protection of patients data, computational complexity, and the need for interpretable and explainable models. Negotiating such hurdles is crucial for the enhancement of integrating mathematical models into clinical decisions. It stresses the need to pay close attention to the quality of data, the number of samples needed, correct and appropriate model selection, and continuous learning to minimize the risk of having ineffective and unreliable models when implemented in real-life situations.
+Keywords: Behavioral psychology; quantitative methods in economics; computational intelligence; research activity; statistics for research; mathematical modeling; statistical applications; information systems; developmental psychology; machine learning; data science; nervous system disorder; operations management; nursing research methods; cognitive psychology; diagnostic procedure; nursing research methodology; geomatics; biological sciences quantitative methods; biochemistry experimental methods; therapeutic procedure; quantitative research method; operations research; tissue
+
+Lingxiang Shi, Tiantian Chai, Xiangning Du, Jili Jia, Kefu Yao, Zhengjun Zhang, Na Chen,
+Soft magnetic amorphous alloys and their derivatives,
+Materials Science and Engineering: R: Reports,
+Volume 167,
+2026,
+101078,
+ISSN 0927-796X,
+https://doi.org/10.1016/j.mser.2025.101078.
+(https://www.sciencedirect.com/science/article/pii/S0927796X25001561)
+Abstract: With the rapid development of information technology including artificial intelligence, the issue related to power consumption of current electrical and electronic devices has become increasingly serious. Hence, there is a pressing need to design and develop high-performance materials that can meet the critical demands for low power consumption and high energy conversion efficiency. Soft magnetic amorphous alloys (SMAAs) and their derivatives, mainly including soft magnetic nanocrystalline alloys (SMNAs), are nowadays state-of-the-art energy-saving materials due to their high permeability (μ), low coercivity (Hc), low saturation magnetostriction (λs) and high saturation magnetic induction (Bs), which result in low core loss and high energy conversion efficiency, particularly for high-frequency applications. Over the past few decades, compositional design, structural modification and subsequent process control have been utilized to enhance Bs, increase μ, reduce Hc and decrease λs. Through a comprehensive survey on these results in literature, this review article aims to clarify the key factors influencing the soft magnetic properties of SMAAs/SMNAs from both experimental and theoretical viewpoints and further uncover the mechanisms underlying the correlations among composition, structure, processing and properties as well as their coupling effects. In addition, the current industrial application status of SMAAs/SMNAs is summarized together with the related technological challenges that impede their potential applications. To sustain the rapid development of SMAAs/SMNAs, new perspectives are also proposed for making possible breakthroughs in their soft magnetic properties and cost performance, which may trigger new research realm and further extend their application range.
+Keywords: Soft magnetic amorphous alloys; Soft magnetic nanocrystalline alloys; Fe-based amorphous alloys; Soft magnetic properties
+
+Arvind Raghav, Sheetal Negi, Vijay Masiwal, Filipa Mascarenhas-Melo, Alka Lohani,
+Chapter 1 - Nanotechnology in skin care: Opportunities and challenges,
+Editor(s): Alka Lohani, Shahbaz Khan, Pierfrancesco Morganti,
+Nanodermatology,
+Elsevier,
+2026,
+Pages 3-22,
+ISBN 9780443363269,
+https://doi.org/10.1016/B978-0-443-36326-9.00023-X.
+(https://www.sciencedirect.com/science/article/pii/B978044336326900023X)
+Abstract: Nanotechnology in skin care is a rapidly advancing field with significant potential to revolutionize skincare and treatment of skin diseases. Nanotechnology has revolutionized the skincare industry by offering innovative solutions that enhance the efficacy and delivery of active ingredients. Nanotechnology-based delivery systems improve the penetration, absorption, and controlled release of active ingredients. This technology increases the stability and bioavailability of skincare agents, leading to more effective treatments for conditions such as fungal infections, acne, eczema, psoriasis, skin aging, etc. However, the integration of nanotechnology in skincare also presents challenges, including potential safety concerns, regulatory hurdles, and the need for extensive research to understand long-term effects. Addressing these challenges is crucial to fully harness the potential of nanotechnology in skincare. This chapter provides an overview of the opportunities and challenges associated with nanotechnology in skincare, highlighting the importance of thorough research and regulation in ensuring its safe application.
+Keywords: Cosmetics; Nanotechnology; Skincare; Skin delivery; Skin hydration
+
+Thumpati Prasanth,
+Chapter 5 - Advancements in biomarker discovery and validation for targeted therapies,
+Editor(s): Sachchida Nand Rai, Santosh Kumar Singh, Veer Singh,
+Advancements in Modeling-Based Therapeutics and Technology for Chronic Diseases,
+Academic Press,
+2026,
+Pages 135-164,
+ISBN 9780443338779,
+https://doi.org/10.1016/B978-0-443-33877-9.00004-5.
+(https://www.sciencedirect.com/science/article/pii/B9780443338779000045)
+Abstract: Targeted therapies are the basis of personalized medicine, which utilizes highly specific biomarkers to optimize therapeutic responses. This chapter reviews the state of the art for biomarker discoveries and validations for targeted therapies. It reviews innovative technologies such as genomics, proteomics, and advanced imaging. It illustrates how these technologies are tapped to identify biomarkers for early disease detection, disease staging, and prediction of response to treatment. This chapter emphasizes the synergies between the goal of identifying actionable biomarkers for targeted therapies and companion diagnostics to redefine clinical approaches on a patient-by-patient basis, ultimately changing the way many diseases are treated, leading to better outcomes and lower toxicities.
+Keywords: Actionable biomarkers; Advanced imaging; Biomarkers; Biomarker discovery; Biomarker validation; Clinical approaches; Companion diagnostics; Disease detection; Disease staging; Genomics; Personalized medicine; Proteomics; Reduced toxicity; Targeted therapies; Therapeutic outcomes; Treatment prediction
+
+Shreya Pal, Mantu Kumar Mahalik,
+Chapter 3 - Economic policy uncertainties and energy generation dynamics in emerging economies: A panel data analysis,
+Editor(s): Hooi Hooi Lean, Jin Hooi Chan,
+Energy Economics, Finance, and Management in Developing and Emerging  Economies,
+Elsevier,
+2026,
+Pages 47-65,
+ISBN 9780443247286,
+https://doi.org/10.1016/B978-0-443-24728-6.00018-X.
+(https://www.sciencedirect.com/science/article/pii/B978044324728600018X)
+Abstract: This study examines the complex relationship between economic policy uncertainties and renewable and nonrenewable energy generation, focusing particularly on 20 emerging economies classified by Morgan Stanley Capital International due to their rapid economic growth. Through the utilization of threshold regression analysis over the period from 2000 to 2022, Kernel Regularized Least Square and Panel-Corrected Standard Errors, the research investigates the long-term impacts of economic policy uncertainties on energy production. Findings indicate that heightened economic policy uncertainties are associated with decreased renewable energy production and increased nonrenewable energy generation, highlighting the adverse effects of uncertainty on energy sector investments. Moreover, technological innovations primarily drive nonrenewable energy generation, posing challenges for renewable energy adoption. The study also underscores the negative influence of government effectiveness on renewable energy generation, signaling systemic flaws in institutional frameworks across emerging economies. As economic growth accelerates, there is a notable increase in nonrenewable energy consumption, emphasizing the imperative for sustainable energy transitions. Globalization emerges as a key factor shaping energy consumption patterns, with increased global economic integration fostering greater demand for renewable energy. The study offers policy implications for emerging economies, advocating for transparency in economic policymaking, promoting technological advancements in renewables, strengthening institutional quality, sustainable management of economic growth, and leveraging globalization for sustainable energy transitions. These insights provide valuable guidance for policymakers and stakeholders amid evolving economic landscapes and policy uncertainties.
+Keywords: Economic policy uncertainties; Emerging economies; Nonenewable energy generation; Panel data; Renewable energy generation
+
+Mahmood Ahmed,
+Chapter 10 - Conclusion and closing remarks,
+Editor(s): Mahmood Ahmed, Syed Salman Shafqat,
+Curcumin Bioavailability and Sustainability as Therapeutic Agent,
+Academic Press,
+2026,
+Pages 235-240,
+ISBN 9780443291968,
+https://doi.org/10.1016/B978-0-443-29196-8.00006-9.
+(https://www.sciencedirect.com/science/article/pii/B9780443291968000069)
+Keywords: Bioavailability; Curcumin; Natural therapy; Safety; Sustainability; Therapeutic agent
+
+Estefany Rey-Becerra, Lope H. Barrero, Rolf Ellegast, Annette Kluge,
+VR- or lecture-based training? The role of culture in safety training outcomes,
+Applied Ergonomics,
+Volume 130,
+2026,
+104626,
+ISSN 0003-6870,
+https://doi.org/10.1016/j.apergo.2025.104626.
+(https://www.sciencedirect.com/science/article/pii/S0003687025001620)
+Abstract: Virtual reality (VR) training provides immersive, risk-free experiences that leverage multisensory integration to improve memory retention, presence and embodiment to strengthen engagement and attention, and situational learning to promote transfer of training to real-world contexts. Adding gamification through serious games (SG) further enhances engagement and active learning. This study validates a VR-SG safety training previously evaluated in Colombia, now applied to 74 professional roofers in Germany comparing ViStra (VR-SG) with LeStra (lecture-based with problem-based learning). Using Kirkpatrick's model, we assessed reaction, cognitive and attitudinal outcomes, self-reported behavior, and safety climate through validated questionnaires. Both programs improved cognitive and attitudinal outcomes, with no significant differences. No effects were found for behavior or safety climate. Thus, ViStra matched LeStra's effectiveness. Post hoc comparison with Colombian data suggests cultural factors influence some outcomes, highlighting the importance of adapting training strategies to cultural contexts for future safety training strategies in diverse work environments.
+Keywords: Construction safety; work at heights; training effectiveness
+
+Jialin Li, Guilin Zhang, Chenghao Yu, Zhen Hu, Lili Feng, Piaoping Yang,
+Magnesium-based nanomaterials for cancer therapy: Unraveling mechanisms and current developments,
+Coordination Chemistry Reviews,
+Volume 547,
+2026,
+217119,
+ISSN 0010-8545,
+https://doi.org/10.1016/j.ccr.2025.217119.
+(https://www.sciencedirect.com/science/article/pii/S0010854525006897)
+Abstract: Cancer remains a severe global health challenge, driven by its complex pathogenesis, heterogeneity, and the limitation of conventional treatment strategies. The convergence of nanomaterials with biomedical science has emerged as an important research frontier, particularly emphasizing the utilization of rationally engineered nanoplatforms to address oncology challenges. Magnesium, an essential divalent cation, plays pivotal roles in cellular homeostasis, energy metabolism, and enzymatic activity, with emerging evidence implicates Mg2+ dysregulation is associated with tumor progression and therapeutic resistance. Recent advances in nanotechnology have unlocked the potential of magnesium-based nanomaterials (Mg-NMs) as innovative platforms for oncotherapy, leveraging their biodegradability, biocompatibility, and multifunctional antitumor mechanisms. This review systematically categorizes Mg-NMs, including magnesium alloys, oxides, hydroxides, and other composite nanomaterials, and elucidates their therapeutic mechanisms in regulating tumor cell proliferation, migration, apoptosis, and chemoresistance. Furthermore, Mg-NMs demonstrate remarkable versatility in enabling targeted drug delivery, photothermal therapy, and microenvironmental remodeling. By integrating material science with oncology, this work highlights the transformative potential of Mg-NMs in precision cancer therapy and underscores the need for interdisciplinary collaboration to translate these biomaterials into clinical practice. This review provides a comprehensive synthesis of the current advancements and future trajectories of Mg-NMs in tumor therapy, offering value insights and inspiration for researchers committed to advancing this innovative frontier in oncology therapeutics.
+Keywords: Magnesium-based nanomaterials; Engineering strategy; Multimodal antitumor therapy; Therapeutic mechanism; Tumor microenvironment modulation
+
+Kexin Meng, Jing Jian Xiao,
+Can ChatGPT relate to you? Exploring consumer satisfaction with AI-generated product advice through the lens of consumption values,
+Journal of Retailing and Consumer Services,
+Volume 88,
+2026,
+104496,
+ISSN 0969-6989,
+https://doi.org/10.1016/j.jretconser.2025.104496.
+(https://www.sciencedirect.com/science/article/pii/S0969698925002759)
+Abstract: As generative AI (GAI) tools increasingly assist consumers in making purchasing decisions, understanding how users evaluate such recommendations has become a timely and essential research question. This study applies the Theory of Consumption Values to examine how consumers develop satisfaction with ChatGPT's product recommendations, while also critically assessing the relevance of each value dimension in the context of AI-mediated interactions. Drawing on a randomized online experiment with U.S. participants, we investigate the relationships between customer satisfaction with ChatGPT's responses and five perceived consumption values: functional, emotional, epistemic, social, and conditional. We also investigate if trust plays a mediating role in these connections and whether they differ depending on the task type (requiring mostly human or machine skills) and product attribute (functional, experiential, hybrid). The findings indicate that, except for social value, all value dimensions are strongly linked to greater levels of satisfaction; the most significant correlation is found for functional value. Trust significantly mediates the value–satisfaction relationship, with conditional value exhibiting the most substantial indirect effect through trust. Interestingly, functional value plays a more prominent role in associating with satisfaction for experiential and hybrid products, as well as in human-skill-intensive tasks, rather than in functional products or machine-skill-oriented tasks. Conditional value consistently shows both direct and mediated associations with satisfaction across functional and hybrid products, as well as both task types. Epistemic value demonstrates both direct and mediated associations with satisfaction in functional and experiential product contexts, as well as in tasks requiring primarily machine-based skills. These findings advance theoretical understanding of value perception in GAI interactions and offer practical insights for designing context-sensitive and trust-oriented recommendation systems.
+Keywords: Generative AI (GAI); Consumption values; Consumer satisfaction; Trust; Product attribute; Task type
+
+John Macadam,
+Chapter 20 - Geoheritage: getting the message across—what message and to whom?,
+Editor(s): Emmanuel Reynard, José Brilha,
+Geoheritage (Second Edition),
+Elsevier,
+2026,
+Pages 431-456,
+ISBN 9780443289972,
+https://doi.org/10.1016/B978-0-443-28997-2.00015-7.
+(https://www.sciencedirect.com/science/article/pii/B9780443289972000157)
+Abstract: When geologists wish to communicate geoheritage to the public, they often start by thinking about what science they wish to communicate. They do not start by considering just who this ‘public’ is, what they know and what they might wish to know. Nor do the geologists often have much knowledge of all the work done on successful communication, and so the result of their efforts is all too often material that is ignored, often because it is jargon-rich and presented in great slabs of text. The result may be more than ignorance of the geoheritage but also risk to both the visitors and unintentional damage to the geoheritage. This chapter explains traditional ideas of interpretation, in the sense used by Freeman Tilden. The chapter is divided into free-standing sections – because that is often how visitors receive the information as they move around a visitor centre as they wish, rather than as the designer intended. To reinforce the message that visitors often access information in a random (not linear) order the sections in this chapter are not numbered.
+Keywords: Geoheritage; geotourism; geoconservation; geoeducation; geoparks; interpretation; evaluation and science communication
+
+Chuantao Li, Baoqin Chen, Sheng Li,
+Graph discriminative dynamic sampling AdaBoost for imbalanced cardiovascular disease diagnosis,
+Expert Systems with Applications,
+Volume 297, Part C,
+2026,
+129546,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2025.129546.
+(https://www.sciencedirect.com/science/article/pii/S0957417425031616)
+Abstract: To tackle the challenges arising from class imbalance within cardiovascular disease (CVD) datasets, this study proposes a novel diagnostic model: Graph Discriminative Dynamic Sampling AdaBoost (GDDSAD). This model jointly optimizes class balancing, feature extraction, and the classification process within a unified AdaBoost architecture. Initially, the weight updating mechanism leverages instance confidence to prioritize boundary-proximal instances. Subsequently, dynamic undersampling and dynamic oversampling modules are integrated during the AdaBoost iterations in order to construct a more distinct decision boundary. Ultimately, the dynamically sampled dataset is dimensionality reduced using discriminability improving Locality Preserving Projection (LPP) to provide a more discriminative low dimensional manifold input to the base learner. Experimental results demonstrate that GDDSAD achieves an average increase of 0.208 in the G-Mean and 0.111 in the AUC on 4 CVD datasets compared to AdaBoost, and outperforms mainstream Boosting variants on 6 KEEL datasets, demonstrating its ability to accurately identify diseased instances in imbalanced CVD datasets. The code related to this study is available in the GitHub repository: https://github.com/ChuantaoLi/GDDSAD.
+Keywords: Cardiovascular disease; Class imbalance; Dynamic sampling; Discriminability LPP; AdaBoost variant
+
+Xiaoqian Zhang,
+Zoning out in health management: Exploring information non-behaviour among older Chinese immigrants with diabetes in Canada,
+Information Processing & Management,
+Volume 63, Issue 2, Part A,
+2026,
+104386,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2025.104386.
+(https://www.sciencedirect.com/science/article/pii/S0306457325003279)
+Abstract: Current healthcare practices often assume that individuals actively seek and use health information; however, little is known about why some people do not engage in these behaviours. To address this gap, our study aims to explore information non-behaviour and examine the reasons for disengagement. A qualitative approach was employed, involving recruiting 20 participants through snowball sampling. The participants were older Chinese immigrants with diabetes in Canada. Data were collected through semi-structured, one-on-one interviews and analyzed using reflexive thematic analysis. The study revealed that participants disengaged from active information behaviour by avoiding new information, passively accepting or ignoring what they encountered, failing to apply or critically assess it, and seldom sharing it with others. This non-behaviour was influenced by contextual factors (e.g., environmental barriers, access challenges, and the impact of the COVID-19 pandemic), social factors (e.g., viewing diabetes as a non-topic, social support networks, and doctor-patient interactions), and individual factors (e.g., health condition, coping mechanisms, perceived usefulness of information, and health literacy). The findings highlight the complexity of human behaviour and point to new avenues for future research. Practically, this research contributes to designing patient-centred educational programs, developing accessible and relevant communication tools, and fostering environments that encourage active information engagement.
+Keywords: Information behaviour; Passive search; Information avoidance; Information sharing; Information encountering
+
+Miao Tian, Ye Han, Zhuo Zhang, Suyan Liu,
+3D investigation of the thermal hazardous effects of heat storage in protective clothing and air gap during heating and cooling phases,
+International Journal of Thermal Sciences,
+Volume 219,
+2026,
+110266,
+ISSN 1290-0729,
+https://doi.org/10.1016/j.ijthermalsci.2025.110266.
+(https://www.sciencedirect.com/science/article/pii/S1290072925005897)
+Abstract: Thermal protective clothing (TPC) and the air gap (AG) beneath it protect human skin during the heating phase by insulating and storing heat. However, during the cooling phase, the stored heat can become a secondary source, potentially causing thermal damage to the skin. In this study, a three-dimensional coupled heat transfer model was developed for a TPC system with a vertical AG. Indices were proposed to quantitatively evaluate the thermal protective and hazardous effects of the TPC and AG on the human body. Results showed that air density was crucial to the heat transfer mechanism within the AG. Compared with a temperature-dependent thermal conductivity, assuming a constant value for air (0.025–0.035 W/(m·K)) overestimated its protective performance. The thickness of the AG was directly related to non-uniform skin thermal injury (spatial variation in skin damage across different vertical positions). During the heating phase, airflow within the 6.4 mm AG remained steady, producing a uniform laminar distribution. In contrast, inward helical flow (a spiral circulation where air moved upward and inward, cooled near the skin surface, and recirculated downward toward the fabric) was observed in the 12 mm and 18 mm AGs. In the cooling phase, larger AGs released less stored heat to the skin. Increasing AG thickness from 6.4 mm to 18 mm not only improved thermal protection during exposure but also reduced skin heat absorption during the cooling phase by up to 14 %. Skin surface heat absorption was influenced by both AG thickness and height. These findings clarified the distinct thermal roles of the fabric and the AG during both heating and cooling phases, highlighting the AG's dual function in insulating against external heat and reducing residual heat release to the skin. The results provided theoretical support for optimizing AG thickness beneath TPC to reduce the risk of delayed skin burns.
+Keywords: Thermal hazards; Air gap; Protective clothing; Stored energy; CFD
+
+Shuntao Liu, Pengpeng Huang, Mingming Fan, Pingbo Zhang,
+Synthesis of comb-like polycarboxylate dispersants and the effect of anchoring groups on the dispersion performance and stability for disperse dyes,
+Dyes and Pigments,
+Volume 245,
+2026,
+113179,
+ISSN 0143-7208,
+https://doi.org/10.1016/j.dyepig.2025.113179.
+(https://www.sciencedirect.com/science/article/pii/S0143720825005492)
+Abstract: To obtain a new type of amphiphilic dispersant for improving the dispersion performance of disperse dyes, a series of polycarboxylate sodium salt dispersants (MHT, MAT, MST, MLT) with different anchoring groups were prepared by polymerization with one of hydroxyethyl acrylate, acrylamide, sodium p-styrenesulfonate, and sodium allylsulfonate, using maleic anhydride as the main carboxylic acid monomer, and isoprenyl alcohol ethoxylate as solventized side chain. The effect of the ratio of hydrophilic to hydrophobic groups on the performance of the dispersants was also discussed to understand the molecular composition of the macromolecular polycarboxylate dispersants with polyether as the side chain and the effect of this ratio on the dispersion of hydrophobic dyes. When hydroxyethyl acrylate was used as the hydrophobic monomer and the molar ratio of hydrophilic to hydrophobic groups was 2:1, the average particle size of the dispersed dye solution was 292.9 nm, smaller than that of the milled commercially available dye. The zeta potential of the dye using MHT-4 as a dispersant reached −36.7 mV. Furthermore, the synthesis process of MHT-4 was straightforward, and the prepared dye solution demonstrated that the dispersed dye particles were characterized by small particle size, centralized distribution, and stability, making it easy to dye polyester fabrics with a suitable dyeing rate. Therefore, MHT-4 is an efficient dispersant suitable for dyeing with disperse dyes.
+Keywords: Polycarboxylic acid dispersant; Disperse dye; Polyester fabric
+
+Don Donghee Shin,
+Chapter 5 - Immunizing intelligence: toward bias-aware algorithmic systems,
+Editor(s): Don Donghee Shin,
+Minds, Machines, and Misinformation,
+Elsevier,
+2026,
+Pages 115-147,
+ISBN 9780443161049,
+https://doi.org/10.1016/B978-0-443-16104-9.00005-1.
+(https://www.sciencedirect.com/science/article/pii/B9780443161049000051)
+Abstract: Algorithmic inoculation leverages AI-driven tools to deliver targeted interventions based on trends in misinformation, allowing for real-time adaptation to emerging misinformation campaigns. Algorithmic inoculation functions like a cognitive inoculation, enhancing human ability to resist misinformation and promoting informed decision-making. This proactive approach provides an effective and scalable solution to misinformation, which is particularly important in an era where digital falsehoods spread quickly, influencing public opinion and behavior. By helping users develop critical literacy skills through algorithmic prompts and structured interventions, algorithmic inoculation could ultimately foster a more resilient and informed public. This chapter explores the cognitive mechanisms behind these inoculation effects, highlighting how they can mitigate misinformation from AI sources and extend theoretical applications to real-world contexts. Understanding how inoculation fosters resilience in users offers valuable insights for both theory and practical applications. The inoculation approach offers a critical perspective on extending the theoretical framework to address misinformation and its practical applications.
+Keywords: Inoculation; inoculation processes; heuristic–systematic inoculation process; inoculated message; inoculating effects on misinformation judgment
+
+Syed Salman Shafqat, Mahmood Ahmed, Mohsin Razaa,
+Chapter 6 - Bioavailability and sustainability considerations in formulation development,
+Editor(s): Mahmood Ahmed, Syed Salman Shafqat,
+Curcumin Bioavailability and Sustainability as Therapeutic Agent,
+Academic Press,
+2026,
+Pages 153-180,
+ISBN 9780443291968,
+https://doi.org/10.1016/B978-0-443-29196-8.00009-4.
+(https://www.sciencedirect.com/science/article/pii/B9780443291968000094)
+Abstract: Despite the therapeutic potential, curcumin suffers from poor bioavailability due to low solubility, rapid metabolism, and limited absorption. Various advanced formulation strategies, including nanoparticles, liposomes, micelles, and phospholipid complexes, have been investigated to overcome these limitations. Techniques, such as pH-responsive systems, enzyme-sensitive carriers, mucus-penetrating nanoparticles, and bioenhancer strategies (e.g., piperine and quercetin), have shown promise in enhancing curcumin's bioavailability. In addition, sustainable synthesis approaches, such as green nanotechnology, offer environment-friendly solutions for large-scale production. Challenges remain in standardizing regulatory guidelines and ensuring long-term safety and stability of these formulations for both pharmaceutical and food applications.
+Keywords: Bioavailability; Bioenhancers; Drug delivery systems; Mucoadhesive carriers; Nanoparticles; Nanotechnology; PH-responsive delivery; Sustainability
+
+Muhammadu Sathik Raja, Aarthi C., Rahul A., Syed Zabiyullah G., Jamuna K., Girimurugan R.,
+Chapter 10 - Rehabilitation robotics: transforming motor recovery and enhancing patient-centered therapies,
+Editor(s): S. Sountharrajan, M. Karthiga, Balamurugan Balusamy, Ali Kashif Bashir,
+In Medical Robots and Devices: New Developments and Advances,
+Applied Mathematical Modeling for Biomedical Robotics and Wearable Devices,
+Academic Press,
+2026,
+Pages 175-196,
+ISBN 9780443335143,
+https://doi.org/10.1016/B978-0-443-33514-3.00011-3.
+(https://www.sciencedirect.com/science/article/pii/B9780443335143000113)
+Abstract: Robot technologies have significantly improved the system of rehabilitation therapies and introduced new ideas about how a person can restore his body functions. These gadgets are used to support motor function rehabilitation, assist in mobility, and enhance life of patients. Assimilation of robots within treatment allows the healthcare practitioners to deliver pertinent, standard, and repeated instructions, which are vital in encouraging rehabilitation motor plasticity. Rehabilitation robotics assists patients in regaining their functionality or regain motor skills, which is more helpful to patients suffering from neurology like stroke or spinal cord injury. These systems allow accurate and intense therapy, since the patient’s limbs move through exercises predetermined by the system and with a degree of flexibility and effort that is always uniformly high. Robots for rehabilitation has introduced artificial practice for persons with motor disabilities as it offers accurate and repetitive training that is needed in the therapy. Exoskeletons in motor function, soft robotics, and virtual reality systems are development of functional independence and patient involvement. In this chapter, the modern opportunities of using robotic technologies in the rehabilitation process with reference to the benefits and the integration of robotic technologies into therapeutic strategies are explored. Concerns including cost and availability are addressed, along with technology that guarantees a safer, more inclusive, and efficient encounter in health.
+Keywords: Rehabilitation robotics; assistive devices; motor recovery; neuroplasticity; exoskeleton robots; soft robotics; end-effector robots; electrical stimulation; functional electrical stimulation (FES); electromyography; telerehabilitation; virtual reality; human–robot interaction; gait rehabilitation; upper-limb rehabilitation; pediatric robotic therapy; wearable robotics; robotic automation; therapeutic procedure; nervous system disorder; medical device; surgical procedure; clinical neuroscience; brain stimulation; clinical neurophysiology; human movement studies; robotics; cardiovascular disease; behavioral psychology; information management; musculoskeletal function; neurologic finding; cancer systems biology; biomedical engineering
+
+Ranjan Kumar Singh, Chennu M.M. Prasada Rao, Vaibhav Saxena, Komal Sharma, Vivek Jain, Rajeswari Tanniru, Devesh U. Kapoor,
+Chapter 13 - Biomarkers for detection of eye melanoma,
+Editor(s): Bhupendra G. Prajapati, Devesh U. Kapoor, Nemat Ali,
+Eye Melanoma Unveiled,
+Academic Press,
+2026,
+Pages 277-298,
+ISBN 9780443275418,
+https://doi.org/10.1016/B978-0-443-27541-8.00005-5.
+(https://www.sciencedirect.com/science/article/pii/B9780443275418000055)
+Abstract: “Uveal melanoma (UM) constitutes a neoplastic entity originating within the uveal tract. It ranks as the second most common intraocular neoplasm in the adult population and is recognized as the most prevalent ocular tumor within this cohort. Despite its rarity, UM possesses the potential to manifest as a severe malignancy, leading to a variety of detrimental consequences, including visual impairment, exenteration (the total surgical removal of the eye and surrounding structures), metastatic spread, and ultimately, mortality. Contemporary investigations suggest that similar predictions extrapolated from comprehensive DNA or RNA analyses may hold relevance for immunotherapeutic applications. The quantification of protein expression levels, whether through conventional immune-histochemical techniques or more advanced methodologies such as mass spectrometry, may aid in the identification of biomarkers, particularly within the framework of immunotherapeutic approaches. While considerable efforts remain necessary, the significant advancements in technology and the improved understanding of disease pathogenesis achieved in recent years are anticipated to yield clinically relevant assays for biomarkers in the foreseeable future. This manuscript analyzes the prevailing constraints and underscores the prospective utility of biomarkers in the diagnosis, prognostication, and early intervention of UM.”
+Keywords: Biomarkers; Diagnosis and treatment; Uveal melanoma
+
+A. Yasmine Begum, E. Edwin Lawrence, M. Saravanan, G. Ravivarman, B. Latha, L. Ganesh Babu,
+Chapter 4 - Advanced biosignal processing and emotion recognition through artificial intelligence,
+Editor(s): S. Sountharrajan, M. Karthiga, Balamurugan Balusamy, Ali Kashif Bashir,
+In Medical Robots and Devices: New Developments and Advances,
+Applied Mathematical Modeling for Biomedical Robotics and Wearable Devices,
+Academic Press,
+2026,
+Pages 59-78,
+ISBN 9780443335143,
+https://doi.org/10.1016/B978-0-443-33514-3.00006-X.
+(https://www.sciencedirect.com/science/article/pii/B978044333514300006X)
+Abstract: This chapter examines the synergistic amalgamation of signal processing and machine learning (ML) in the analysis of biosignals, highlighting its transformative potential in healthcare and biomedical research. Essential techniques, including filtering, feature extraction, and data preparation, improve the quality and interpretability of biosignals such as electrocardiography, electroencephalography, and electromyography. ML models, encompassing traditional classifiers and deep learning frameworks, are utilized to derive significant insights, facilitating applications like early diagnosis, remote monitoring, and real-time health management. This chapter explores autonomous emotion recognition through biosignals, integrating physiological measures such as heart rate variability, breathing patterns, and thermal imaging with sophisticated ML algorithms for affective computing. This chapter tackles challenges including noise, variability, and the necessity for extensively annotated data sets, presenting cutting-edge approaches and emphasizing future directions, thereby highlighting their significance in facilitating personalized, adaptive, and efficient healthcare solutions.
+Keywords: Feature extraction; deep neural networks; principal component analysis; anomaly detection; physiological data analysis; K-fold cross-validation; diagnostic procedure; signal processing; nervous system disorder; medical imaging; experimental approach in biochemistry; digital signal processing; cognitive research methodologies; cardiovascular disease; computer vision; diagnostic imaging; machine learning; clinical neurophysiology; network (computer science); cognitive psychology; information systems
+
+Maria da Glória Garcia, Lucie Kubalíková, Nathan Fox, Murray Gray,
+Chapter 4 - Geodiversity and ecosystem services,
+Editor(s): Emmanuel Reynard, José Brilha,
+Geoheritage (Second Edition),
+Elsevier,
+2026,
+Pages 95-120,
+ISBN 9780443289972,
+https://doi.org/10.1016/B978-0-443-28997-2.00031-5.
+(https://www.sciencedirect.com/science/article/pii/B9780443289972000315)
+Abstract: This chapter underscores the crucial role of geodiversity within the ecosystem services (ES) framework, traditionally focused mainly on biodiversity. An inclusive approach is essential to recognise the contributions of abiotic phenomena across regulation, support, provisioning, and cultural ES. Reviews of various classification systems elucidate how these frameworks assess and categorise the services ecosystems offer. It is critical to achieve a comprehensive strategy that acknowledges the deep connection between geodiversity and biodiversity in maintaining ecological functions. Key examples include the impact of geodiversity on carbon sequestration, climate regulation, its fundamental support for biodiversity, and its role in several aspects of culture. Incorporating geodiversity into environmental policy and planning is vital to enhancing ecosystem resilience and sustainability. Integrating geosystem services into broader environmental management strategies can lead to a holistic approach to conservation and sustainability that aligns with interdisciplinary scientific research and public policy frameworks.
+Keywords: Ecosystem services; abiotic services; geosystem services; environmental policies; nature conservation
+
+James A. Busser, Lenna V. Shulga,
+Tourism value co-creation: the more we contribute – the more we value,
+Tourism Management,
+Volume 113,
+2026,
+105292,
+ISSN 0261-5177,
+https://doi.org/10.1016/j.tourman.2025.105292.
+(https://www.sciencedirect.com/science/article/pii/S0261517725001621)
+Abstract: The traditional understanding of value involves assessing gains or determining whether benefits outweigh costs. Conventional wisdom and most research in tourism and hospitality suggest that people want to spend as little as possible on services and receive maximum benefits to perceive something as valuable. Based on service-dominant logic, theory of value, and praxical value conceptualization, we propose and demonstrate that, contrary to the conventional wisdom, when multiple actors co-create value, “the more they contribute, the more they value.” The findings suggest that through value co-creation (VCC) processes in tourism and hospitality, when individuals invest their resources, knowledge, time, and effort, and collaborate with others, the more they contribute, the more they value the outcomes. In three experiments that simulate VCC in tourism and hospitality, co-creating experiences, and co-innovation in a resort setting, using multivariate analysis of variance (MANOVA), results revealed that resource contribution increases one's value perceptions. Resource contribution in tourism VCC has a positive effect on one's perceptions of value, including co-created value, and on their subjective wellbeing, both for customers and hospitality employees. Furthermore, gender differences played a role in assessing resource contribution in VCC.
+Keywords: Value; Tourism experience co-creation; Service-dominant logic; Wellbeing; Resources
+
+Wala Abdalla, Suresh Renukappa, Subashini Suresh, Satyasiba Das, Tonny Veenith,
+Assessing drivers for managing knowledge in the context of smart cities,
+Cities,
+Volume 168,
+2026,
+106411,
+ISSN 0264-2751,
+https://doi.org/10.1016/j.cities.2025.106411.
+(https://www.sciencedirect.com/science/article/pii/S0264275125007127)
+Abstract: It is imperative for smart cities organisations to cultivate a nuanced understanding of the goals they aim to pursue and the value they need to add before embarking on a Knowledge Management (KM) journey. Building upon the theoretical frameworks of Institutional Theory and Knowledge-Based View, this study aims to explore the key drivers that have propelled the adoption of KM strategies in the context of smart cities. The study adopted a mixed-methods approach for data collection, incorporating both quantitative and qualitative research methodologies. Quantitative data was gathered from 97 participants through an online survey, in which respondents assessed the significance of various drivers for knowledge management in the context of smart cities. Qualitative data was obtained through semi-structured interviews with 15 professionals across seven different organisations. The quantitative data was analysed using SPSS, while content analysis was adopted for the qualitative data. The findings of this study identified the five most significant drivers for managing knowledge in the context of smart cities. Therefore: to improve sharing of knowledge related to smart cities agenda, to protect loss of smart cities related knowledge due to key workers' departures, to help integrate knowledge assets related to smart cities agenda, to improve the capture of knowledge related to smart cities agenda, and to improve employee's productivity in implementing smart cities agenda. Using a mixed-methods research methodology, this empirical study explores the key drivers for managing knowledge in the context of smart cities. This study expands the theoretical application of KM initiatives, and further provides practical implications for the organisations implementing smart cities projects looking to implement KM strategies. The study r drew “7 K” recommendations for the government, industry, and organisations to evaluate and act upon.
+Keywords: Competitive advantage; Drivers; Knowledge management; KM; Knowledge capture; Knowledge sharing; Smart cities
+
+Zexiang Wang, Feng Xiang, Chen Chen, Yuxia Wang, Xian Zhao, Weiliu Fan,
+Boosting photocatalytic reduction of low-concentration CO2 to CO via hydrophilic/CO2-philic interface microenvironment engineering in Ag/TiO2-x Schottky junctions,
+Applied Catalysis B: Environment and Energy,
+Volume 381,
+2026,
+125906,
+ISSN 0926-3373,
+https://doi.org/10.1016/j.apcatb.2025.125906.
+(https://www.sciencedirect.com/science/article/pii/S0926337325008896)
+Abstract: Photocatalytic conversion of flue gas-derived CO2 promotes sustainable carbon cycles, where interfacial-engineered catalysts address critical challenges in CO2 capture/activation and charge transfer dynamics under low-concentration environments. Here, Ag/TiO2-x Schottky junctions with dual hydrophilic/CO2-philic interfaces were engineered through oxygen vacancy (VO)-mediated work function modulation and site-selective polydopamine (PDA)/ortho-aminobenzenethiol (o-ABT) modification. This architecture synergistically activates H2O oxidation and CO2 capture/activation, enabling efficient dilute CO2-to-CO conversion in gas-solid photoreduction systems. The optimized o-ABT@Ag/TiO2-x@PDA (o-AATP) achieves 271.2 μmol g−1 h−1 CO yield under 20 % CO2 atmosphere, surpassing pure CO2 conditions (256.3 μmol g−1 h−1) with 48.4-fold enhancement over pristine TiO2-x. Significantly, o-AATP retained > 99.1 % selectivity and stable performance throughout 30–5 % CO2 concentrations, highlighting exceptional adaptability to dilute CO2 atmospheres. Multi-scale studies combining in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS), molecular dynamics (MD) simulations, and density functional theory (DFT) calculations reveal that PDA coating and Vo synergistically enhance H2O dissociation on TiO2-x. The Ag−S anchored o-ABT ligand aligns the amino group to form N−H···OCO hydrogen bonds with CO2, enabling concurrent CO2 capture and activation. The hydrophilic/CO2-philic interface engineering and synergistic redox modulation achieve 3.91 % apparent quantum yield (AQY) under 20 % CO2 atmosphere, demonstrating enhanced photocatalytic conversion performance for solar-driven industrial emission treatment.
+Keywords: Photocatalytic CO2 reduction; Low-concentration; Schottky junction; Interface; Microenvironment engineering
+
+Zoie S.Y. Wilkins-Wong, Siaw-Teng Liaw,
+Chapter 5 - Digital Health Maturity Stage 5: Innovating platform and services,
+Editor(s): Siaw-Teng Liaw, Jitendra Jonnagaddala, Myron Anthony Godinho, Zoie Shui Yee Wilkins-Wong,
+Digital Health Maturity: Quality, Interoperability, and Innovation,
+Academic Press,
+2026,
+Pages 133-154,
+ISBN 9780323952606,
+https://doi.org/10.1016/B978-0-323-95260-6.00005-8.
+(https://www.sciencedirect.com/science/article/pii/B9780323952606000058)
+Abstract: At DHM Stage 5 (Innovating), organizations build on the digital competencies developed, enabled, and deployed during the previous four DHM stages. The established infrastructure, platform, and organizational governance framework enable innovators to rapidly introduce new ideas, tools, and analytics to evaluate the impact and effectiveness of these new mechanisms and interventions. Underpinned by innovation management theories and quality assurance and management practices, DHM Stage 5 organizations are action-oriented, selecting innovations to pursue based on their strategic needs and technological capabilities. Organizational leadership and broad stakeholder engagement through cocreation are critical to the success of digital health programs. This chapter provides examples of digital health innovations, including big data repositories and networks that share data to support multicenter international collaborations. Achieving a robust standardization stage is essential to optimizing and innovating digital health services, enhancing innovative models of care across the micro-meso-macro-meta continuum.
+Keywords: Big data; Artificial intelligence; Augmented intelligence; Machine learning; Robotics; Simulation; Virtual reality; Cocreation; Quality assurance; Knowledge management
+
+José Brilha,
+Chapter 6 - Geoheritage: inventories and evaluation,
+Editor(s): Emmanuel Reynard, José Brilha,
+Geoheritage (Second Edition),
+Elsevier,
+2026,
+Pages 137-154,
+ISBN 9780443289972,
+https://doi.org/10.1016/B978-0-443-28997-2.00028-5.
+(https://www.sciencedirect.com/science/article/pii/B9780443289972000285)
+Abstract: The recognition of geoheritage is based on the understanding that certain geodiversity elements possess an unusual significance, indicating that they hold additional value. Due to this high value, these elements must be protected, especially when the risk of degradation from natural or anthropic factors is critical. This chapter details methods for identifying and inventorying geoheritage. Additionally, to prioritise subsequent management actions, a numerical assessment of geoheritage value and degradation risk is proposed, based on a set of criteria designed to reduce the subjectivity inherent in any evaluation process.
+Keywords: Geoheritage; geoconservation; geodiversity; geosite; inventory and assessment
+
+Renato Henriques, Nathalie Cayla, Ivaneide Santos, Simon Martin, Gorki Mariano,
+Chapter 21 - Digital technologies for geovisualisation and AI-powered geointerpretation applied to geoheritage management,
+Editor(s): Emmanuel Reynard, José Brilha,
+Geoheritage (Second Edition),
+Elsevier,
+2026,
+Pages 457-478,
+ISBN 9780443289972,
+https://doi.org/10.1016/B978-0-443-28997-2.00004-2.
+(https://www.sciencedirect.com/science/article/pii/B9780443289972000042)
+Abstract: This chapter explores the integration of digital technologies and artificial intelligence (AI) in geoheritage management, focusing on geovisualisation and geointerpretation. It highlights the emergence of 'virtual geoheritage', driven by advancements in computing power and miniaturisation, which allow for the creation of accurate virtual models of geoheritage sites. These technologies address challenges such as inaccessibility, physical disabilities, and the need for effective visitor engagement. AI-driven tools, including virtual and augmented reality applications, offer immersive educational experiences, enhancing the appreciation and understanding of geological sites. The use of unmanned aerial vehicless and machine learningalgorithms is transforming geological data collection and analysis, enabling the study of remote or hazardous areas. The chapter also discusses the development of AI-powered mobile applications that provide interactive, real-time geological information. Overall, it emphasises the transformative impact of these technologies on geoheritage conservation, education, and public engagement, while also addressing the challenges and opportunities in implementing AI solutions.
+Keywords: Geovisualisation; geointerpretation; virtual environment; virtual geoheritage; artificial intelligence
+
+Don Donghee Shin,
+Chapter 4 - AI-fueled deception: mechanics of machine-driven manipulation,
+Editor(s): Don Donghee Shin,
+Minds, Machines, and Misinformation,
+Elsevier,
+2026,
+Pages 87-113,
+ISBN 9780443161049,
+https://doi.org/10.1016/B978-0-443-16104-9.00006-3.
+(https://www.sciencedirect.com/science/article/pii/B9780443161049000063)
+Abstract: AI deception represents a significant and evolving challenge with profound implications for society, technology, and governance. As AI systems continue to grow more sophisticated, their capacity to mislead—whether through hallucinations, bias reinforcement, or misuse—necessitates proactive and multidisciplinary intervention. Deception is a capability these systems have acquired through their training. Techniques such as manipulation, sycophancy, and evading safety measures illustrate this potential in large language models and other AI technologies. The increasing sophistication of AI deception presents significant risks, including immediate threats like fraud and election interference, as well as long-term dangers, such as losing control over AI systems. Addressing these challenges requires proactive measures, including regulatory frameworks to evaluate AI deception risks, legal mandates for transparency in AI interactions, and dedicated research to detect and mitigate deceptive behaviors in AI. Tackling this issue is essential to ensure AI remains a beneficial tool, enhancing rather than undermining human knowledge, communication, and societal institutions.
+Keywords: AI deception; deceptive behaviors; manipulation; mitigating AI risks; detecting AI deception; sycophancy; deceptive AI
+
+Sakshi Singh, Payal Singh, Toolika Singh,
+Chapter 3 - Precision medicine: Tailoring therapeutics through advanced modeling strategies,
+Editor(s): Sachchida Nand Rai, Santosh Kumar Singh, Veer Singh,
+Advancements in Modeling-Based Therapeutics and Technology for Chronic Diseases,
+Academic Press,
+2026,
+Pages 85-108,
+ISBN 9780443338779,
+https://doi.org/10.1016/B978-0-443-33877-9.00018-5.
+(https://www.sciencedirect.com/science/article/pii/B9780443338779000185)
+Abstract: Precision medicine is an advanced approach towards developing new therapies to properly understand the cause of disease for providing better treatment and prevention. Each affected individual can be treated better through data-based decision-making approach. Mapping clinical history of the patient to take appropriate action regarding selection of drug, dosage, administration time, and other actions involving statistical research for treatment and care is possible due to personalized medication. It is the transition from treating disease based on symptoms and diagnosis to a method targeting disease prior to its occurrence, providing better cure if it cannot be avoided. Precision medicine provides improved patient outcomes through artificial intelligence, optimized use of tools and medicines, omics, social and environmental factors along with population and preventive medicine. Patient's genotypic and phenotypic data is maintained through biomarkers, laboratory, and radiological testings. This chapter will explain the importance of precision medicine and provide different strategies to deliver it in practice.
+Keywords: Critical illness; Healthcare; Omics; Personalized medicine
+
+Koray Albulut,
+Addressing social vulnerabilities resulting from low-carbon energy transition policies in EU-27 countries: A systematic survey of the literature,
+Renewable and Sustainable Energy Reviews,
+Volume 226, Part A,
+2026,
+116245,
+ISSN 1364-0321,
+https://doi.org/10.1016/j.rser.2025.116245.
+(https://www.sciencedirect.com/science/article/pii/S1364032125009189)
+Abstract: Low-carbon transition research has experienced exponential growth in recent years, driven by the urgent need to mitigate climate change and achieve sustainability goals. The disruption of traditional industries, increased energy costs, and changes in land use are inevitable consequences of the low-carbon turn, often adversely impacting the least equipped to handle it. Vulnerable groups often face the greatest risks from climate change and the side effects of the policies designed to combat it. This study conducts a systematic literature review following the PRISMA 2020 guidelines, covering publications from the Web of Science and Scopus databases. Data were extracted into spreadsheets for descriptive analytics, and trends in publication years, countries, and policy tools were visualized with Python-generated heatmaps and summary tables. The findings reveal that despite best efforts to unburden vulnerable groups, many unaddressed concerns remain in the European 27 countries, where one might least expect them. The analysis highlights how one-size-fits-all policies ignore regional and social differences, disproportionately burdening vulnerable groups while favoring wealthier segments through subsidies and incentives. The mixed effectiveness of countermeasures—such as social tariffs, subsidies, and the Just Transition Mechanism—highlights ongoing challenges, including misrecognition, elite capture, and institutional constraints, while also underscoring notable successes like participatory community energy projects and locally tailored retrofitting initiatives. This research underscores the necessity of moving beyond uniform solutions, advocating for locally sensitive, equitable approaches that address affected communities' diverse needs and aspirations while ensuring social and environmental justice in the transition to a low-carbon economy.
+Keywords: Energy transition; EU-27 countries; Low-carbon transition; Vulnerable groups
+
+Xuan Liu, Zhiping Ren, Ying Zhang, Jungang Zhao, Tao Wan, Ziang Zhang, Miaomiao Hu, Miao Zhang, Yi Yang, Caiting Li,
+Deciphering the mechanistic origins of geometric-site-dependent bimetallic superexchange interactions in spinel oxides to boost VOCs catalytic oxidation,
+Applied Catalysis B: Environment and Energy,
+Volume 381,
+2026,
+125908,
+ISSN 0926-3373,
+https://doi.org/10.1016/j.apcatb.2025.125908.
+(https://www.sciencedirect.com/science/article/pii/S0926337325008914)
+Abstract: Manipulating multi-metal interactions in spinel oxides offers great opportunities to develop highly efficient and robust catalysts for volatile organic compounds (VOCs) oxidation, but such potential remains largely unexploited or even causes suppressed activity due to the ambiguity in rational design metallic interactions and the poor understanding of the origins of metallic synergy. Herein, by fine-tuning cation distributions via pyrolysis metal-organic frameworks (MOFs), the geometric-site-dependent superexchange interactions in typical Mn-Cu spinel oxides were tailored and served as the ideal model to probe their intriguing roles and underlying mechanisms in toluene oxidation. The Mnoct-O-Cutet interactions (Mn in octahedra while Cu in tetrahedra) induced an impressive five-fold increase in toluene specific reaction rate, a four-fold increase in turnover frequency, and remarkably declined apparent activation energy from 71.0 to 41.0 kJ·mol−1 as compared to Mn3O4. However, the Mnoct-O-Cuoct interactions (Mn and Cu in octahedra) showed the unexpected opposite behavior and deteriorated the toluene specific reaction rate by 42 % and the turnover frequency by 18 %. In-depth experimental analyses and theoretical calculations revealed that Mnoct-O-Cutet triggered superexchange valence redistribution and electron delocalization, contributing to enhanced surface lattice oxygen activation. In contrast, the electronic interactions in Mnoct-O-Cuoct unit decreased the energy difference between Mnoct 3d and O 2p band centers and hence strengthened Mnoct-O covalence. This work highlights that not only the metallic combination but also the cation distributions should be carefully considered when designing polymetallic spinels, and provides fundamental insights into the origins of site-dependent metallic interactions in spinels, which sheds light on the rational design of polymetallic spinel oxides with optimized superexchange interactions and reinforced catalytic activities for VOCs treatment.
+Keywords: Spinel oxides; Bimetallic interactions; VOCs; Catalytic oxidation; Electronic structure; MOFs
+
+Qaiser Munir, Shamrez Ali, Kasim Mansur,
+Chapter 6 - Moderating role of global value chains between countries' ability to adopt and adapt the frontier technology and renewable energy innovations: Evidence from selected developing economies,
+Editor(s): Hooi Hooi Lean, Jin Hooi Chan,
+Energy Economics, Finance, and Management in Developing and Emerging  Economies,
+Elsevier,
+2026,
+Pages 115-133,
+ISBN 9780443247286,
+https://doi.org/10.1016/B978-0-443-24728-6.00004-X.
+(https://www.sciencedirect.com/science/article/pii/B978044324728600004X)
+Abstract: Renewable energy innovations are urgently needed in the current era to ensure low-carbon emissions. The ability of an economy to adopt and adapt frontier technology promotes innovations in renewable energy perspectives. In addition, it is widely understood that global value chains are a source of technology and knowledge diffusion, which may affect a country's ability to transform into a knowledge-based economy. The objective of the current research is to explore the impact of countries' ability to adopt and adapt frontier technology on renewable energy innovations. We will also examine the moderating role of global value chains between countries' above-mentioned ability and renewable energy innovations. We use 13 developing countries' data, over the period 2008–2020. Our estimation results from feasible generalized least-squares estimation reveal a positive relationship between countries' frontier readiness and their renewable energy innovation. Importantly, we show that this relationship is further strengthened when considering the moderating role of global value chains, indicating that the presence of global value chains enhances the positive impact of countries' frontier technology on renewable energy innovations.
+Keywords: Developing countries; Economic growth; Frontier technology; Global value chain; Panel data; Renewable energy innovations
+
+Clara Vasconcelos, Tiago Ribeiro,
+Chapter 19 - The interplay of geoheritage and outdoor experiences through education and communication,
+Editor(s): Emmanuel Reynard, José Brilha,
+Geoheritage (Second Edition),
+Elsevier,
+2026,
+Pages 411-430,
+ISBN 9780443289972,
+https://doi.org/10.1016/B978-0-443-28997-2.00016-9.
+(https://www.sciencedirect.com/science/article/pii/B9780443289972000169)
+Abstract: This chapter explores the interplay between geoheritage, education, and communication, emphasising the value of outdoor experiences. Geoheritage, encompassing Earth’s natural features, holds immense scientific, educational, cultural, and aesthetic value. Preserving these features is crucial for geoconservation and understanding Earth’s history. Geoheritage sites serve as resources for scientific investigation, cultural significance, and inspiration, promoting environmental insight and sustainability literacy. The chapter highlights geosciences education’s role in fostering geoheritage and geoethical awareness, addressing environmental issues, and promoting sustainable development. It advocates using geoheritage sites for formal, non-formal, and informal education, integrating outdoor learning. The importance of citizen science and public engagement in promoting geoheritage conservation is discussed. Science communication’s role in educating the public and promoting geoconservation is underscored, as is training educators to impart geoheritage knowledge effectively. Integrating geoethics and sustainability education aims to foster appreciation for Earth’s heritage and responsible environmental stewardship.
+Keywords: Citizen science; communication; education; nature learning; outdoor activities
+
+Mahmood Ahmed,
+Chapter 9 - Future directions and challenges,
+Editor(s): Mahmood Ahmed, Syed Salman Shafqat,
+Curcumin Bioavailability and Sustainability as Therapeutic Agent,
+Academic Press,
+2026,
+Pages 227-234,
+ISBN 9780443291968,
+https://doi.org/10.1016/B978-0-443-29196-8.00012-4.
+(https://www.sciencedirect.com/science/article/pii/B9780443291968000124)
+Keywords: Bioavailability; Clinical trials; Curcumin; Sustainable production; Sustainable release; Target delivery
+
+Simran Kaur, Vishesh Sahu, Simran Yadav, Vikesh Kumar Shukla,
+Chapter 23 - Ethical and regulatory considerations in nanodermatology,
+Editor(s): Alka Lohani, Shahbaz Khan, Pierfrancesco Morganti,
+Nanodermatology,
+Elsevier,
+2026,
+Pages 499-522,
+ISBN 9780443363269,
+https://doi.org/10.1016/B978-0-443-36326-9.00022-8.
+(https://www.sciencedirect.com/science/article/pii/B9780443363269000228)
+Abstract: The rapid advancement of nano dermatology poses unique ethical and regulatory challenges, particularly in profit-driven cosmetic dermatology, where the pervasive use of nanotechnology raises complex ethical considerations. The key principles like justice, autonomy, beneficence, and nonmaleficence guide the discourse. The supporters argue for patient autonomy and desired procedures, claiming alignment with beneficence and justice, whereas opponents emphasize protecting patients from harm, regardless of mental competency. Furthermore, the concerns about the safety of nanomaterials used in cosmetic products, particularly regarding penetration into the skin, underscore the need for ethical guidelines to ensure patient safety and autonomy. Regulatory bodies like the Food and Drug Authority and European Commission have set guidelines to ensure the safety and efficacy of nanomaterials. These regulations cover aspects such as chemical and physical characterization, toxicity assessment, and labeling requirements. While some countries like Canada and Australia have established inclusive definitions and regulatory oversight, others like Brazil and India are in the process of developing specific guidelines for nanotechnology in cosmetics. Despite differences in regulatory frameworks, there is a shared commitment to protecting public health and promoting innovation in nano dermatology. Nano dermatology presents both promising opportunities and complex ethical and regulatory considerations. By establishing uniform ethical guidelines and stringent regulatory frameworks, policymakers, healthcare professionals, regulatory authorities, and industrialists can navigate these challenges and foster innovations in nano dermatology.
+Keywords: Beneficence; Cosmetics; Cosmetic dermatology; Ethical dilemmas; Regulations; Toxicity assessment
+
+Dan Tormey, John E. Gordon, Rachel M.L. Wignall, Roger Crofts,
+Chapter 12 - Geoheritage helps to understand climate change and supports adaptation planning and design at geosites subject to climate change,
+Editor(s): Emmanuel Reynard, José Brilha,
+Geoheritage (Second Edition),
+Elsevier,
+2026,
+Pages 269-288,
+ISBN 9780443289972,
+https://doi.org/10.1016/B978-0-443-28997-2.00017-0.
+(https://www.sciencedirect.com/science/article/pii/B9780443289972000170)
+Abstract: The scale of Earth systems means understanding climate change can exceed human perception, challenging efforts to appreciate and build support for adaptation planning at geosites. Geoheritage informs us of the current cycle of climate changes and expands our perception with evidence of earlier climate changes. Using the expanded understanding of the effects of climate change, procedures and examples are provided to help assess the risks to geoheritage, and the vulnerability of geoheritage assets to the drivers of climate change. Adaptation measures described include minimal intervention options, nature-based solutions such as beach replenishment, wetland restoration and hard-engineered protection in exceptional circumstances. Human responses to climate change impacts can also be significant to geoheritage including actions to minimise property damage and modifying geotourism infrastructure. Effective geoheritage communication can draw in visitors and stakeholders, creating a shared foundation of understanding and interest in Earth system stories, to inform conservation planning and management.
+Keywords: Geoheritage; education and planning; climate change impacts; adaptation planning; nature-based solutions
+
+Akruti Khodakiya, Chelsi Gadhvi, Bhupendra G. Prajapati, Ashish Wadhwani,
+Chapter 9 - Nanoscale drug-eluting implants for the diagnosis and treatment of eye melanoma,
+Editor(s): Bhupendra G. Prajapati, Devesh U. Kapoor, Nemat Ali,
+Eye Melanoma Unveiled,
+Academic Press,
+2026,
+Pages 173-198,
+ISBN 9780443275418,
+https://doi.org/10.1016/B978-0-443-27541-8.00010-9.
+(https://www.sciencedirect.com/science/article/pii/B9780443275418000109)
+Abstract: Drug-eluting implants offer a transformative approach to site-specific drug delivery with broad applications in oncology, ophthalmology, and contraception. These implants enable controlled and sustained release of therapeutic agents, thereby minimizing systemic exposure, reducing side effects, and enhancing patient compliance by eliminating the need for repeated injections. The mechanisms of drug release primarily involve diffusion, degradation, or surface erosion, and the implants can be composed of polymeric, metallic, biodegradable, or non-biodegradable materials. Targeted ocular drug delivery can be achieved through advanced carriers such as nanoparticles, liposomes, and microemulsions, which improve drug penetration, retention, and bioavailability. Drug loading strategies include soaking, molecular imprinting, and drug-polymer film embedding. A wide range of agents, including chemotherapeutic, immunotherapeutic, and gene therapy drugs, can be delivered via these implants. Emerging integration with biosensors facilitates biomarker monitoring, while diagnostic imaging technologies such as MRI, CT, and fluorescence imaging aid in evaluating therapeutic outcomes. Comprehensive evaluation includes in vitro release and cell culture studies, in vivo animal studies, and clinical trials focused on efficacy and safety, highlighting the significant potential of drug-eluting implants in precision medicine.
+Keywords: Biodegradable implants; Biomarker detection; Biosensors; Clinical trials; Contraception; Controlled release; Drug-eluting implants; Gene therapy; Imaging techniques; Immunotherapy; In vitro studies; In vivo studies; Molecular imprinting; Nanofiber fabrication; Nanoparticles; Ophthalmology; Polymeric implants; Site-specific drug delivery; Sustained drug release; Oncology
+
+Patrick De Wever, Michel Guiraud,
+Chapter 9 - Geoheritage and museums,
+Editor(s): Emmanuel Reynard, José Brilha,
+Geoheritage (Second Edition),
+Elsevier,
+2026,
+Pages 203-219,
+ISBN 9780443289972,
+https://doi.org/10.1016/B978-0-443-28997-2.00021-2.
+(https://www.sciencedirect.com/science/article/pii/B9780443289972000212)
+Abstract: The chapter is focused on ex situ geoheritage, that is, to say on collections, and more specifically those hosted by museums. These objects have a different status. They were collected for different purposes (e.g. scientific value, aesthetic appearance, archive significance) and therefore their use varies accordingly. Geoheritage collections disseminate knowledge, both for students and the general public. Acquisition policy is therefore guided by the preservation of a current state of nature, culture or mankind. Regarding acquisition, a new concern has arisen in the last years since science has been confronted by issues of land rights and rightful ownership. Acquisition policy has to conform with international conventions and the International Council of Museums Code of Ethics and needs to address two issues: the commercial value of geological samples and the political interest of governments.
+Keywords: Geoheritage; collections; museums; exhibitions; value; research and legal aspects
+
+Zoie S.Y. Wilkins-Wong, Siaw-Teng Liaw,
+Chapter 4 - Digital Health Maturity Stage 4: Optimizing platform and services,
+Editor(s): Siaw-Teng Liaw, Jitendra Jonnagaddala, Myron Anthony Godinho, Zoie Shui Yee Wilkins-Wong,
+Digital Health Maturity: Quality, Interoperability, and Innovation,
+Academic Press,
+2026,
+Pages 111-132,
+ISBN 9780323952606,
+https://doi.org/10.1016/B978-0-323-95260-6.00004-6.
+(https://www.sciencedirect.com/science/article/pii/B9780323952606000046)
+Abstract: Built on the standardization specifications and processes established in Digital Health Maturity (DHM) Stage 3 (Standardized) and Stage 4 (Optimizing) targets, generating high-quality, shareable data to enable multidisciplinary integrated care, clinical quality improvement, decision support, and comparative effectiveness research. Assessing data quality, harmonizing data, and establishing standardized data structures become increasingly essential at DHM Stage 4. Advanced analytics and dashboards for reporting and visualization make data accessible and actionable by users and decision-makers across the micro-meso-macro-meta continuum of the enterprise. Real-world data now extend beyond local clinical decision support and contribute to population health initiatives and public health reporting. Various case studies from around the world illustrate and provide multiple insights into optimizing platforms and services. They also demonstrate the pivotal role of an established and mature DHM Stage 3 in supporting interoperable data and tools, as well as the optimal use of public and/or private commercial digital goods.
+Keywords: Continuous quality improvement; Information and data sharing; Data quality; Data liquidity; Citizen engagement; Data strategy; Multisectoral; HIT standards
